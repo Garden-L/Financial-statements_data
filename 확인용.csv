@@ -1,0 +1,2490 @@
+,항목코드,항목명
+1,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비
+2,dart_OperatingIncomeLoss,영업이익
+3,dart_OtherGains,기타영업외수익
+4,ifrs-full_FinanceIncome,금융수익
+5,ifrs-full_FinanceCosts,금융비용
+6,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익
+7,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익)
+8,ifrs-full_ProfitLoss,당기순이익
+9,ifrs-full_EarningsPerShareAbstract,주당순이익
+10,ifrs-full_BasicEarningsLossPerShare,   보통주 주당순이익
+11,ifrs-full_DilutedEarningsLossPerShare,   보통주 희석주당순이익
+12,ifrs-full_Revenue,매출액
+13,ifrs-full_CostOfSales,매출원가
+14,ifrs-full_GrossProfit,매출총이익
+18,ifrs-full_FinanceCosts,금융원가
+19,dart_OtherGains,기타수익
+20,dart_OtherLosses,기타비용
+21,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(손실)
+22,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용
+23,ifrs-full_ProfitLoss,분기순이익(손실)
+24,ifrs-full_EarningsPerShareAbstract,주당이익 [abstract]
+25,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석주당손익(손실)
+30,dart_OperatingIncomeLoss,영업이익(손실)
+34,dart_OtherLosses,기타영업외비용
+37,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익(손실)
+38,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실)
+39,ifrs-full_ProfitLoss,당기순이익(손실)
+41,ifrs-full_BasicEarningsLossPerShare,   기본주당이익(손실)
+42,ifrs-full_DilutedEarningsLossPerShare,   희석주당이익(손실)
+43,ifrs-full_Revenue,수익(매출액)
+48,dart_OtherGains,기타이익
+49,dart_OtherLosses,기타손실
+70,ifrs-full_DilutedEarningsLossPerShare,   우선주당이익(손실)
+72,dart_RevenueFromConstruction,   공사매출
+73,dart_RevenueFromSaleOfGoodsRealEstate,   분양매출
+74,ifrs-full_OtherRevenue,   기타매출
+76,dart_CostOfSalesFromConstruction,   공사매출원가
+77,dart_CostOfSalesFromSaleOfGoodsRealEstate,   분양매출원가
+78,dart_OtherCostOfSales,   기타매출원가
+93,dart_RevenueFromSaleOfGoodsMerchandise,   상품매출액
+94,dart_RevenueFromRenderingOfServicesCommission,   수수료매출
+96,dart_CostOfSalesFromSaleOfGoodsMerchandises,   상품매출원가
+97,dart_CostOfSalesFromRenderingOfServicesCommission,   수수료매출원가
+105,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업및종속기업관련손익
+130,dart_BadDebtExpenses,   대손상각비
+131,dart_MiscellaneousExpenses,   기타
+133,dart_OtherGains,영업외수익
+134,dart_OtherLosses,영업외비용
+136,dart_InterestIncomeFinanceIncome,   이자수익
+139,dart_InterestExpenseFinanceExpense,   이자비용
+140,dart_OtherFinancialExpenses,   기타금융비용
+143,ifrs-full_ProfitLoss,분기순이익
+145,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업기본주당이익(손실)
+147,dart_RevenueFromSaleOfGoodsProduct,   제품매출액
+150,dart_CostOfSalesFromSaleOfGoodsProduct,   제품매출원가
+169,ifrs-full_RevenueFromConstructionContracts,   건설계약으로 인한 수익(매출액)
+170,dart_RevenueFromConstruction,      공사수익
+171,dart_RevenueFromSaleOfGoodsRealEstate,      분양매출(수익)
+172,ifrs-full_OtherRevenue,   기타수익(매출액)
+174,dart_CostOfSalesFromConstructionContracts,   건설계약으로 인한 수익(매출액)에 대한 매출원가
+175,dart_CostOfSalesFromConstruction,      공사매출원가
+176,dart_CostOfSalesFromSaleOfGoodsRealEstate,      분양매출원가
+177,dart_OtherCostOfSales,   기타수익(매출액)에 대한 매출원가
+193,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본주당이익(손실)
+195,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업희석주당이익(손실)
+196,ifrs-full_Revenue,매출
+235,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"종속기업, 공동지배기업과 관계기업으로부터의 기타수익(비용)"
+241,ifrs-full_Revenue,영업수익
+242,ifrs-full_CostOfSales,영업비용
+248,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법손익
+268,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당순이익
+269,ifrs-full_Revenue,매출 및 지분법 손익
+270,ifrs-full_RevenueFromDividends,   배당금수익
+271,ifrs-full_RevenueFromRoyalties,   상표권사용수익
+272,dart_RevenueFromRenderingOfServicesRental,   임대수익
+274,dart_PersonalExpense,   인건비
+275,dart_DepreciationExpense,   감가상각비
+276,dart_MiscellaneousExpenses,   기타영업비용
+283,ifrs-full_ProfitLossBeforeTax,법인세비용차감전계속영업이익
+284,ifrs-full_IncomeTaxExpenseContinuingOperations,계속영업법인세비용
+286,ifrs-full_EarningsPerShareAbstract,주당이익(단위 : 원)
+302,ifrs-full_EarningsPerShareAbstract,주당손익
+316,ifrs-full_EarningsPerShareAbstract,지배기업소유주지분 귀속 주당이익
+317,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석 보통주당이익
+318,ifrs-full_DilutedEarningsLossPerShare,   기본 및 희석 우선주당이익
+320,ifrs-full_CostOfSales,상품구입원가
+323,dart_SalariesWages,   종업권급여
+324,dart_DepreciationExpense,   감가상각비와무형자산상각비
+333,ifrs-full_ProfitLossFromContinuingOperations,계속영업분기순이익
+336,ifrs-full_EarningsPerShareAbstract,주당이익(단위:원)
+337,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당이익
+338,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      계속영업과중단영업 기본주당이익
+339,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업 기본주당이익
+354,ifrs-full_ProfitLoss,분기기순이익(손실)
+374,ifrs-full_EarningsPerShareAbstract,주당순이익(단위:원)
+375,ifrs-full_BasicEarningsLossPerShare,   기본주당순이익:
+387,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순손익
+389,ifrs-full_ProfitLossFromContinuingOperations,계속영업분기순손익
+390,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업손익
+391,ifrs-full_ProfitLoss,분기순손익
+393,ifrs-full_BasicEarningsLossPerShare,   보통주
+394,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      기본주당계속영업손익
+395,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      기본주당중단영업손익
+396,ifrs-full_DilutedEarningsLossPerShare,   우선주
+397,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      우선주당계속영업손익
+398,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      우선주당중단영업손익
+403,ifrs-full_FinanceIncome,금융수익-유효이자율법에따른이자수익
+414,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당이익(손실)
+418,dart_TotalSellingGeneralAdministrativeExpenses,판매비와 관리비
+419,dart_OperatingIncomeLoss,영업이익 (손실)
+424,ifrs-full_ProfitLossBeforeTax,법인세차감전순이익
+454,ifrs-full_GrossProfit,매출총이익(손실)
+456,dart_OperatingIncomeLoss,영업손실
+461,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순손실
+462,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세이익
+463,ifrs-full_ProfitLoss,분기순손실
+465,ifrs-full_DilutedEarningsLossPerShare,   기본및희석주당순손실
+467,dart_RevenueFromServices,   매출액
+469,ifrs-full_EmployeeBenefitsExpense,   종업원급여
+470,dart_Commissions,   지급수수료
+472,dart_NetworkContactSettleExpense,   망접속정산비용
+473,dart_ExclusiveLineUseExpense,   전용회선료및전파사용료
+474,dart_AdvertisingExpenses,   광고선전비
+475,dart_RentalExpenses,   지급임차료
+488,ifrs-full_BasicEarningsLossPerShare,   기본주당이익
+489,ifrs-full_DilutedEarningsLossPerShare,   희석주당이익
+502,ifrs-full_ProfitLossFromContinuingOperations,계속사업순이익(손실)
+503,ifrs-full_ProfitLossFromDiscontinuedOperations,중단사업순이익(손실)
+506,ifrs-full_BasicEarningsLossPerShare,   기본주당순이익(손실)
+507,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속사업주당이익(손실)
+508,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단사업주당이익(손실)
+509,ifrs-full_DilutedEarningsLossPerShare,   희석주당순이익(손실)
+513,dart_TotalSellingGeneralAdministrativeExpenses,판매비
+532,dart_OtherGains,기타영업수익
+533,dart_OtherLosses,기타영업비용
+546,dart_SalariesWages,   급여
+547,dart_ProvisionForSeveranceIndemnities,   퇴직급여
+548,dart_EmployeeBenefits,   복리후생비
+549,dart_FreightExpenses,   선임과운임
+550,dart_OrdinaryDevelopmentExpense,   기술개발비
+551,dart_TravelExpenses,   여비교통비
+552,dart_CommunicationExpenses,   통신비
+553,dart_VehicleMaintenanceExpenses,   차량유지비
+554,dart_SupplyExpenses,   소모품비
+555,dart_TaxesDues,   제세공과금
+556,dart_UtilityExpenses,   수도광열비
+558,dart_RepairExpenses,   수선비
+559,dart_InsurancePremiums,   보험료
+562,dart_ConferenceExpenses,   회의비
+563,dart_EntertainmentExpenses,   접대비
+564,dart_TrainingExpenses,   도서및교육훈련비
+565,dart_BadDebtExpenses,   대손상각비(대손충당금환입)
+566,dart_MiscellaneousExpenses,   잡비
+569,dart_GainsForeignCurrencyTransactions,   외환차익
+570,dart_GainOnForeignExchangeTranslations,   외화환산이익
+571,dart_MiscellaneousIncome,   잡이익
+573,dart_LossesForeignCurrencyTransactions,   외환차손
+574,dart_LossOnForeignExchangeTranslations,   외화환산손실
+575,dart_LossesOnDisposalsOfPropertyPlantAndEquipment,   유형자산처분손실
+576,dart_LossesOnDisposalOfIntangibleAssets,   무형자산처분손실
+577,dart_MiscellaneousLosses,   잡손실
+581,dart_GainsOnDisposalsOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치금융자산처분이익
+582,dart_GainsOnValuationOfDerivativeFinancialInstrumentsFinancialIncome,   파생상품평가이익
+583,dart_OtherFinancialIncome,   기타금융수익
+586,dart_LossesOnDisposalsOfFairValueFinancialAssetFinancialExpense,   당기손익-공정가치금융자산처분손실
+596,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업기본주당이익(손실)
+614,dart_RevenueFromConstruction,   일반공사수익
+615,dart_RevenueFromSaleOfGoodsRealEstate,   분양매출(수익)
+616,dart_RevenueFromServices,   용역수익
+618,dart_CostOfSalesFromConstruction,   일반공사원가
+619,dart_CostOfSalesFromSaleOfGoodsRealEstate,   분양공사원가
+620,dart_CostOfSalesFromServices,   용역원가
+629,ifrs-full_ProfitLossBeforeTax,법인세비용차감전이익(손실)
+632,ifrs-full_EarningsPerShareAbstract,주당이익(손실)
+636,ifrs-full_RevenueFromSaleOfGoods,   재화의 판매로 인한 수익(매출액)
+637,dart_RevenueFromSaleOfGoodsProduct,      제품매출액
+638,ifrs-full_RevenueFromRenderingOfServices,   용역의 제공으로 인한 수익(매출액)
+639,dart_RevenueFromRenderingOfServicesProcession,      임가공매출
+641,dart_CostOfSalesFromSaleOfGoods,   재화의 판매로 인한 수익(매출액)에 대한 매출원가
+642,dart_CostOfSalesFromRenderingOfServices,   용역의 제공으로 인한 수익(매출액)에 대한 매출원가
+677,dart_MiscellaneousExpenses,   판매비
+678,dart_LeaseholdAdministrationExpense,   관리비
+680,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"종속기업, 공동기업 및 관계기업투자손익"
+681,ifrs-full_FinanceIncome,금융손익
+682,dart_OtherFinancialIncome,   금융수익
+778,ifrs-full_EarningsPerShareAbstract,지배회사 소유주지분에 대한 주당이익
+792,ifrs-full_ProfitLossBeforeTax,법인세비용차감전이익
+809,ifrs-full_FinanceIncome,기타금융수익
+813,ifrs-full_EarningsPerShareAbstract,지배기업의 소유주지분에 대한 주당이익
+814,ifrs-full_BasicEarningsLossPerShare,   기본주당손익
+817,ifrs-full_DilutedEarningsLossPerShare,   희석주당손익
+829,ifrs-full_ProfitLossBeforeTax,계속법인세비용차감전순이익
+830,ifrs-full_IncomeTaxExpenseContinuingOperations,계속법인세비용(수익)
+838,dart_TotalSellingGeneralAdministrativeExpenses,판매비및관리비
+848,ifrs-full_BasicEarningsLossPerShare,   보통주 분기 기본 및 희석 주당이익
+849,ifrs-full_DilutedEarningsLossPerShare,   우선주 분기 기본 및 희석 주당이익
+892,ifrs-full_BasicEarningsLossPerShare,   기본주당순이익
+893,ifrs-full_DilutedEarningsLossPerShare,   희석주당순이익
+923,ifrs-full_BasicEarningsLossPerShare,   기본(희석)주당순이익
+940,dart_RevenueFromConstruction,   공사매출액
+941,dart_RevenueFromRenderingOfServicesRental,   임대료수입
+959,dart_RevenueFromRenderingOfServicesProcession,   임가공매출
+963,dart_CostOfSalesFromRenderingOfServicesProcession,   임가공매출원가
+998,dart_MiscellaneousExpenses,   판매및관리비용
+999,dart_ImpairmentLossRecoveryOfAccountsReceivables,   수취채권손상차손
+1009,ifrs-full_BasicEarningsLossPerShare,   보통주 기본및희석주당이익(손실)
+1010,ifrs-full_DilutedEarningsLossPerShare,   구형우선주 기본및희석주당이익(손실)
+1012,dart_RevenueFromRenderingOfServicesTransportation,   운송매출
+1015,dart_CostOfSalesFromRenderingOfServicesTransportation,   운송매출원가
+1048,ifrs-full_ProfitLoss,-당기순이익(손실)
+1072,ifrs-full_Revenue,영업수익(매출액)
+1073,ifrs-full_RevenueFromSaleOfGoods,   상품 및 제품매출
+1105,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자주식손상차손
+1126,ifrs-full_EarningsPerShareAbstract,지배기업 소유주지분 주당손익
+1142,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치금융자산평가이익
+1143,dart_GainsFromFinancialGuaranteeFinancialIncome,   금융보증채무환입
+1148,dart_LossesOnValuationOfFairValueFinancialAssetFinancialExpense,   당기손익-공정가치금융자산평가손실
+1162,dart_DividendIncome,   배당금수익(금융수익)
+1163,dart_GainsOnForeignCurrencyTransactionsFiancialIncome,   외환차익(금융수익)
+1164,dart_GainsOnForeignExchangeTranslationsFinancialIncome,   외화환산이익(금융수익)
+1165,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익인식금융자산평가이익(금융수익)
+1166,dart_GainsOnTransactionOfDerivativeFinancialInstrumentsFinancialIncome,   파생상품거래이익(금융수익)
+1167,dart_GainsOnValuationOfDerivativeFinancialInstrumentsFinancialIncome,   파생상품평가이익(금융수익)
+1170,dart_LossesOnForeignCurrencyTransactionsFiancialExpense,   외환차손(금융원가)
+1171,dart_LossesOnForeignExchangeTranslationsFinancialExpense,   외화환산손실(금융원가)
+1172,dart_LossesOnValuationOfFairValueFinancialAssetFinancialExpense,   당기손익인식금융자산평가손실(금융원가)
+1173,dart_LossesOnValuationOfDerivativeFinancialInstrumentsFinancialExpense,   파생상품평가손실(금융원가)
+1180,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석주당이익(손실)
+1207,ifrs-full_ProfitLoss,1분기순이익(손실)
+1209,ifrs-full_BasicEarningsLossPerShare,   보통주 기본 및 희석주당이익
+1210,ifrs-full_DilutedEarningsLossPerShare,   우선주 기본 및 희석주당이익
+1222,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치 금융자산평가이익
+1225,dart_LossesOnTransactionOfDerivativeFinancialInstrumentsFinancialExpense,   파생상품거래손실(금융원가)
+1227,dart_LossesOnValuationOfFairValueFinancialAssetFinancialExpense,   당기손익-공정가치 금융자산평가손실
+1248,ifrs-full_EarningsPerShareAbstract,지배기업지분에 대한 주당이익
+1314,ifrs-full_FinanceIncome,금융순손익
+1327,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자이익(손실)
+1376,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세(수익)비용
+1398,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익
+1401,ifrs-full_BasicEarningsLossPerShare,   보통주 기본주당이익
+1402,ifrs-full_DilutedEarningsLossPerShare,   보통주 희석주당이익
+1421,ifrs-full_EarningsPerShareAbstract,주당순손익
+1422,ifrs-full_BasicEarningsLossPerShare,   기본주당순손익
+1451,ifrs-full_EarningsPerShareAbstract,지배기업 소유주지분에 대한 주당이익
+1453,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      보통주기본주당분기순이익(손실)
+1454,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      우선주기본주당분기순이익(손실)
+1456,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      보통주희석주당분기순이익(손실)
+1457,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      우선주희석주당분기순이익(손실)
+1523,dart_CostOfSalesFromRenderingOfServicesRental,   임대매출원가
+1564,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법손실
+1571,ifrs-full_Revenue,수익(순매출액)
+1625,ifrs-full_EarningsPerShareAbstract,주당순이익(손실)
+1651,dart_TaxesDues,   세금과공과
+1657,dart_PublicationExpenses,   도서인쇄비
+1658,dart_OrdinaryDevelopmentExpense,   경상개발비
+1659,dart_TrainingExpenses,   교육훈련비
+1660,dart_FreightExpenses,   운반비
+1665,dart_AmortisationExpense,   무형자산상각비
+1669,dart_ReversalsOfAllowanceForOtherDoubtfulAccounts,   기타대손충당금환입
+1673,dart_AllowanceForOtherDoubtfulAccounts,   기타의대손상각비
+1676,dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,   지분법손실
+1709,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자손실
+1711,ifrs-full_ProfitLossFromContinuingOperations,계속영업당기순손실
+1712,ifrs-full_ProfitLoss,당기순손실
+1726,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(이익)
+1752,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      중단영업희석주당이익(손실)
+1795,dart_OtherGains,기타영업외이익
+1796,dart_OtherLosses,기타영업외손실
+1844,dart_LossesOnSaleOfInvestmentsInSubsidiaries,   종속기업투자주식처분손실
+1845,dart_ImpairmentLossesOnAssociates,   관계기업/공동기업투자손상차손
+1846,dart_ImpairmentLossDeterminedInAccordanceWithIFRS9,   K-IFRS 1109에 따라 결정된 손상차손
+1911,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석 주당순이익(손실)
+1943,dart_RevenueFromSaleOfGoodsMerchandise,      상품매출액
+1946,dart_RevenueFromRenderingOfServicesRental,      임대수익
+1947,dart_RevenueFromServices,      용역매출액
+1950,dart_CostOfSalesFromSaleOfGoodsMerchandises,      상품매출원가
+1951,dart_CostOfSalesFromSaleOfGoodsProduct,      제품매출원가
+1953,dart_CostOfSalesFromRenderingOfServicesRental,      임대매출원가/임대수익원가
+1954,dart_CostOfSalesFromServices,      용역매출원가
+1967,dart_RentalExpenses,   임차료
+1978,dart_WarrantyExpenses,   하자보수비
+2024,ifrs-full_FinanceIncome,영업외손익
+2088,dart_ExportOverallExpense,   수출제비용
+2093,dart_SamplesExpenses,   견본품비
+2097,dart_PackingExpenses,   포장비
+2102,dart_GainsOnDisposalsOfFairValueFinancialAssetFinancialIncome,   당기손익인식금융자산처분이익(금융수익)
+2110,dart_GainsFromCommission,   수입수수료
+2111,dart_LentIncome,   수입임대료
+2112,dart_GainsOnDisposalsOfPropertyPlantAndEquipment,   유형자산처분이익
+2119,dart_Donations,   기부금
+2132,dart_RevenueFromRenderingOfServicesCommission,      수수료매출
+2159,dart_GainsArisingFromDifferenceBetweenPreviousAmortisedCostAndFairValueOfFinancialAssetsReclassifiedOutOfAmortisedCostIntoFairValueThroughProfitOrLossMeasurementCategory,   당기손익공정가치측정 금융자산평가이익
+2162,dart_LossesOnDisposalOfFairValueFinancialAsset,   당기손익인식금융자산처분손실
+2201,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법이익(손실)
+2253,ifrs-full_DilutedEarningsLossPerShare,   희석주당순손익
+2335,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속 및 관계기업 투자손익
+2388,dart_MiscellaneousExpenses,   기타판매비와관리비
+2456,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업등 투자손익
+2471,dart_OtherGains,이자수익
+2504,ifrs-full_ProfitLossBeforeTax,법인세비용차감전분기순손실
+2659,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법이익
+2671,dart_SalariesWages,   급여및상여
+2811,ifrs-full_Revenue,매출액(매출액)
+2830,dart_MiscellaneousExpenses,   일반판매비와관리비
+2835,ifrs-full_FinanceIncome,금융수익-유효이자율법에 의한 이자수익
+2838,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속·관계기업 투자손익
+2857,ifrs-full_EarningsPerShareAbstract,지배기업의 소유주지분에 대한 주당손익
+2949,ifrs-full_ProfitLoss,총포괄순이익(손실)
+2992,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석 주당이익
+3010,dart_EngagementExpenses,   업무추진비
+3012,dart_FreightExpenses,   운반보관비
+3014,dart_MembershipExpenses,   협회비
+3019,dart_RepairExpenses,   수선유지비
+3024,dart_GainsOnDisposalsOfInvestmentProperty,   투자부동산처분이익
+3026,dart_GainsOnDisposalsOfInventory,   재고자산처분이익
+3028,dart_GainsOnDisposalsOfIntangibleAssets,   무형자산처분이익
+3163,ifrs-full_ProfitLossFromContinuingOperations,계속영업당기순이익
+3239,ifrs-full_BasicEarningsLossPerShare,   기본주당순이익(원/주)
+3240,ifrs-full_DilutedEarningsLossPerShare,   희석주당순이익(원/주)
+3246,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자손익
+3275,ifrs-full_BasicEarningsLossPerShare,   기본주당분기순이익
+3276,ifrs-full_DilutedEarningsLossPerShare,   희석주당분기순이익
+3292,ifrs-full_Revenue,I.  매출액
+3296,dart_OperatingIncomeLoss,V. 영업이익
+3297,dart_OtherGains,VI. 영업외손익
+3300,dart_MiscellaneousIncome,   기타영업외수익
+3302,ifrs-full_ProfitLossBeforeTax,VII. 법인세비용차감전순이익(손실)
+3305,ifrs-full_EarningsPerShareAbstract,IX. 주당이익
+3306,ifrs-full_BasicEarningsLossPerShare,   기본및희석보통주당이익
+3307,ifrs-full_DilutedEarningsLossPerShare,   기본및희석우선주당이익
+3322,ifrs-full_Revenue,매출액 및 지분법손익
+3377,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,공동기업및관계기업투자이익
+3385,ifrs-full_BasicEarningsLossPerShare,   계속기업기본주당이익(손실)
+3386,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업기본주당이익(손실)
+3387,ifrs-full_DilutedEarningsLossPerShare,   계속기업희석주당이익(손실)
+3388,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,   중단영업희석주당이익(손실)
+13,ifrs-full_ProfitLossAttributableToAbstract,당기순이익의 귀속
+14,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주
+15,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분
+32,ifrs-full_ProfitLossAttributableToAbstract,분기순이익(손실)의 귀속
+33,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주지분
+53,ifrs-full_ProfitLossAttributableToAbstract,당기순이익(손실)의 귀속 [abstract]
+54,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 당기순이익(손실)
+55,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 당기순이익(손실)
+96,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업우선주당이익(손실)
+163,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주지분 당기순이익(손실)
+164,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분 당기순이익(손실)
+169,dart_RevenueFromConstruction,   공사수익
+171,dart_RevenueFromServices,   용역매출액
+178,dart_CostOfSalesFromServices,   용역매출원가
+193,ifrs-full_ProfitLossAttributableToAbstract,분기순이익의 귀속
+293,ifrs-full_RevenueFromSaleOfGoods,   제품및상품매출
+294,ifrs-full_RevenueFromRenderingOfServices,   용역매출
+295,ifrs-full_RevenueFromConstructionContracts,   건설형계약매출
+335,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주지분
+354,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주지분
+444,ifrs-full_ProfitLossAttributableToAbstract,분기순손익의 귀속
+473,ifrs-full_ProfitLossAttributableToAbstract,분(반)기순이익(손실)의 귀속
+518,ifrs-full_ProfitLossFromContinuingOperations,계속영업손실
+519,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업손실
+521,ifrs-full_ProfitLossAttributableToAbstract,분기순손실의 귀속
+522,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사의 소유주지분
+523,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주지분
+525,ifrs-full_BasicEarningsLossPerShare,   계속영업과 중단영업 기본및희석주당순손실
+568,ifrs-full_ProfitLossAttributableToAbstract,반기순이익(손실)의 귀속
+569,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업지분순이익(손실)
+570,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분순이익(손실)
+611,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업지분
+647,dart_GainsOnDisposalsOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,   매각예정자산처분이익
+653,dart_LossesOnDisposalOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,   매각예정자산처분손실
+727,dart_OtherGains,공동기업 및 관계기업투자손익
+738,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사소유주지분순이익
+739,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분순이익
+795,ifrs-full_EarningsPerShareAbstract,지배기업 지분에 대한 주당순이익
+796,ifrs-full_BasicEarningsLossPerShare,   보통주 기본및희석주당손익
+850,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업(손실)
+853,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주귀속 당기순이익(손실)
+854,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분 귀속 당기순이익(손실)
+871,ifrs-full_GainsLossesArisingFromDifferenceBetweenPreviousCarryingAmountAndFairValueOfFinancialAssetsReclassifiedAsMeasuredAtFairValue,관계기업에 대한 지분법손익
+878,ifrs-full_ProfitLossAttributableToAbstract,당기순이익의귀속
+996,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주순이익
+997,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주순이익
+1040,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배지분
+1109,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 귀속
+1110,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분 귀속
+1164,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   계속영업희석주당이익(손실)
+1226,ifrs-full_ProfitLossAttributableToAbstract,연결당기순이익
+1254,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업이익(손실)
+1255,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업이익(손실)
+1279,dart_LossesOnDisposalsOfFairValueFinancialAssetFinancialExpense,   당기손익인식금융자산처분손실(금융원가)
+1313,ifrs-full_GainsLossesOnNetMonetaryPosition,관계기업 투자손익
+1335,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유지분
+1422,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주 귀속되는 당기순이익
+1525,ifrs-full_ProfitLossFromContinuingOperations,계속사업손익
+1528,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주 지분
+1661,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주지분
+1887,dart_TotalSellingGeneralAdministrativeExpenses,경상연구개발비
+1915,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,지분법투자이익
+1932,ifrs-full_FinanceIncome,금융이익
+1944,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석주당순이익
+1959,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 분기순이익(손실)
+1996,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주 귀속 분기순이익(손실)
+2023,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분 소유주지분
+2028,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속사업 기본주당이익(손실)
+2169,dart_WarehouseExpenses,   보관료
+2213,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 당기순이익
+2214,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 당기순이익
+2227,dart_GainsOnForeignExchangeTranslationsFinancialIncome,   금융원가
+2383,dart_GainsOnDisposalsOfFairValueFinancialAsset,   당기손익인식금융자산처분이익
+2393,dart_ImpairmentLossesOnIntangibleAssets,   무형자산손상차손
+2396,dart_LossesArisingFromDifferenceBetweenPreviousAmortisedCostAndFairValueOfFinancialAssetsReclassifiedOutOfAmortisedCostIntoFairValueThroughProfitOrLossMeasurementCategory,   당기손익공정가치측정 금융자산평가손실
+2445,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주지분순이익(손실)
+2446,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주지분순이익(손실)
+2963,dart_ExpensesOfProvisionsForRestoration,   복구충당부채전입액
+3140,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      계속영업과중단영업기본주당이익(손실)
+3143,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      계속영업과중단영업희석주당이익(손실)
+3246,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의소유주지분순이익(손실)
+3307,dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,   지분법이익
+3317,dart_GainsOnValuationOfForeignExchangeForwardFinancialIncome,   통화선도평가이익(금융수익)
+3322,dart_LossesOnValuationOfForeignExchangeForwardFiancialExpense,   통화선도평가손실(금융원가)
+3352,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 당기순손실
+3408,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주지분순이익
+3457,dart_OtherCostOfSales,   매출원가
+3466,ifrs-full_ProfitLossFromContinuingOperations,계속사업당기순이익(손실)
+3467,ifrs-full_ProfitLossFromDiscontinuedOperations,세후중단영업이익(손실)
+3492,ifrs-full_BasicEarningsLossPerShare,   지배기업의 소유주지분에 대한 기본및희석주당이익
+3507,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주지분 순이익
+3508,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분 순이익(손실)
+3523,ifrs-full_ProfitLossAttributableToAbstract,연결분기순이익(손실)
+3542,ifrs-full_ProfitLossAttributableToAbstract,연결분기순이익의 귀속
+3579,dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,   투자손익
+3586,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주
+14,ifrs-full_OtherComprehensiveIncome,기타포괄손익
+15,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 있는 항목
+16,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가이익
+18,ifrs-full_ComprehensiveIncome,당기포괄이익(손실)
+39,ifrs-full_ComprehensiveIncome,총포괄손익
+71,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,   당기손익으로 재분류되지 않는 항목(세전기타포괄손익)
+72,dart_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정손익(세전기타포괄손익)
+74,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossBeforeTax,   당기손익으로 재분류될 수 있는 항목(세전기타포괄손익)
+75,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsBeforeTax,      매도가능금융자산평가손익(세전기타포괄손익)
+119,dart_Bonus,   상여
+139,ifrs-full_SharebasedPaymentTransactions,   주식보상비용(환입)
+142,dart_GainsOnSaleOfInvestmentsInAssociates,   관계기업/공동기업투자처분이익
+149,dart_LossesOnTransactionOfDerivativeFinancialInstrument,   파생금융상품거래손실
+150,dart_LossesOnValuationOfDerivativeFinancialInstrument,   파생금융상품평가손실
+157,dart_GainsFromFinancialGuaranteeFinancialIncome,   금융보증(계약)수익
+164,dart_LossesFromFinancialGuaranteeFinanceExpense,   금융보증비용(손실)
+169,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는항목(세후기타포괄손익)
+170,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정손익(세후기타포괄손익)
+183,ifrs-full_ProfitLossBeforeTax,법인세비용차감전분기순이익
+185,ifrs-full_ProfitLossFromContinuingOperations,계속사업분기순이익
+188,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는 항목
+189,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채의 재측정요소
+190,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 항목
+191,ifrs-full_ComprehensiveIncome,당기총포괄이익
+203,ifrs-full_FinanceIncome,금융수익-유효이자율법으로계산한이자수익
+210,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는항목
+215,ifrs-full_Revenue,Ⅰ.매출액
+216,ifrs-full_CostOfSales,Ⅱ.매출원가
+217,ifrs-full_GrossProfit,Ⅲ.매출총이익
+218,dart_TotalSellingGeneralAdministrativeExpenses,Ⅳ.판매비와관리비
+221,dart_OperatingIncomeLoss,Ⅴ.영업이익
+222,ifrs-full_FinanceIncome,Ⅵ.금융수익
+223,dart_OtherGains,Ⅶ.기타이익
+224,ifrs-full_FinanceCosts,Ⅷ.금융비용
+225,dart_OtherLosses,X.기타비용
+226,ifrs-full_ProfitLossBeforeTax,XI.법인세비용차감전순이익(손실)
+227,ifrs-full_IncomeTaxExpenseContinuingOperations,XII.법인세비용
+228,ifrs-full_ProfitLoss,XIII.당기순이익(손실)
+229,ifrs-full_OtherComprehensiveIncome,XIV.기타포괄손익
+231,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정지분상품평가손익(세후기타포괄손익)
+233,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류될 수 있는 항목(세후기타포괄손익)
+234,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가손익의 세후재분류조정
+235,ifrs-full_ComprehensiveIncome,XV.총포괄손익
+253,ifrs-full_ProfitLossBeforeTax,법인세비용차감전계속영업순이익(손실)
+254,ifrs-full_IncomeTaxExpenseContinuingOperations,계속영업법인세비용(수익)
+278,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정요소
+279,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 측정 지분상품 평가손익
+280,ifrs-full_ComprehensiveIncome,분기총포괄이익
+285,ifrs-full_OtherComprehensiveIncome,법인세효과 차감후 기타포괄손익
+288,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 항목
+289,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 지분상품평가손익
+291,ifrs-full_ComprehensiveIncome,총포괄이익(손실)
+301,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업에 대한 지분법이익
+307,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정손익
+308,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류될 수 있는 항목
+309,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익에 대한 지분해당액
+312,ifrs-full_BasicEarningsLossPerShare,   보통주기본주당이익
+313,ifrs-full_DilutedEarningsLossPerShare,   보통주희석주당이익
+314,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   우선주기본주당이익
+315,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   우선주희석주당이익
+330,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      지분상품에 대한 투자자산의 세후기타포괄손익
+332,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피손익(세후기타포괄손익)
+351,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세수익(비용)
+353,ifrs-full_OtherComprehensiveIncome,분기기타포괄손익
+354,ifrs-full_ComprehensiveIncome,분기총포괄손실
+355,ifrs-full_EarningsPerShareAbstract,주당손실
+356,ifrs-full_BasicEarningsLossPerShare,   보통주기본주당이익(손실)
+357,ifrs-full_DilutedEarningsLossPerShare,   보통주희석주당이익(손실)
+379,ifrs-full_RevenueFromInterest,   이자수익(매출액)
+380,ifrs-full_RevenueFromDividends,   배당수익
+381,dart_RevenueFromRenderingOfServicesCommission,   수수료수익
+383,ifrs-full_OtherRevenue,   기타수익
+402,ifrs-full_OtherRevenue,   기타매출액
+416,ifrs-full_ComprehensiveIncome,총포괄손실
+417,ifrs-full_EarningsPerShareAbstract,주당손익(손실)
+434,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치금융자산평가손익
+436,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      파생상품평가손익
+459,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가손익(세후기타포괄손익)
+477,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정금융자산 평가손익
+478,ifrs-full_ComprehensiveIncome,당기총포괄이익(손실)
+483,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적 으로 당기손익으로 재분류되지 않는항목
+485,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적 으로 당기손익으로 재분류될 수 있는 항목
+504,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적 당기손익 재분류 가능 항목
+506,ifrs-full_ComprehensiveIncome,당기총포괄손익
+507,ifrs-full_EarningsPerShareAbstract,지배기업지분에 대한 주당손익
+538,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정금융자산평가손익
+551,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법투자손익
+559,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      당기손익으로 재분류되지 않는 항목과 관련된 법인세
+561,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeBeforeTax,      기타포괄손익인식금융자산평가손익
+562,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossBeforeTax,      지분법자본변동
+563,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss,      당기손익으로 재분류될수 있는 항목과 관련된 법인세
+576,ifrs-full_ProfitLossBeforeTax,법인세비용차감전분기순이익(손실)
+580,ifrs-full_ComprehensiveIncome,분기총포괄이익(손실)
+633,ifrs-full_ProfitLossFromDiscontinuedOperations,중단사업당기순이익(손실)
+636,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되지 않는 항목
+638,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되는 항목
+649,dart_RevenueFromRenderingOfServicesDistribution,   물류매출액
+653,dart_CostOfSalesFromRenderingOfServicesRental,   임대매출원가/임대수익원가
+654,dart_CostOfSalesFromRenderingOfServicesDistribution,   물류매출원가/유통매출원가
+721,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      자산재평가손익(세후기타포괄손익)
+766,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되는 세후기타포괄손익
+767,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산이익
+769,ifrs-full_GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      파생상품평가이익
+771,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는 세후기타포괄손익
+780,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산손익
+781,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피파생상품평가손익
+809,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정지분상품의 세후기타포괄손익
+825,ifrs-full_OtherComprehensiveIncome,세후기타포괄손익
+858,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익 - 공정가치 측정 금융자산 평가손익
+873,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세 비용
+891,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채의 재측정 요소
+901,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,      매도가능금융자산평가손실
+904,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationBeforeTax,      해외사업장환산외환차이(세전기타포괄이익)
+920,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정 금융자산평가손익
+939,ifrs-full_ComprehensiveIncome,총포괄이익
+960,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      공정가치금융자산 평가손익(세후기타포괄손익)
+961,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여부채의 재측정손익
+972,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,관계기업관련손익
+980,ifrs-full_EarningsPerShareAbstract,지배기업 소유지분에 대한 주당이익
+1051,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않은 항목
+1053,ifrs-full_ComprehensiveIncome,분기총포괄손익
+1088,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 평가손익(세후기타포괄손익)
+1091,ifrs-full_BasicEarningsLossPerShare,   계속영업주당순이익(손실)
+1106,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치측정금융자산평가손익(채무상품)
+1142,dart_CostOfSalesFromConstruction,   공사원가
+1143,dart_CostOfSalesFromSaleOfGoodsRealEstate,   분양원가
+1153,dart_ImpairmentLossRecoveryOfAccountsReceivables,   매출채권손상차손(환입)
+1162,dart_CeremonyExpenses,   직장체육비
+1164,dart_VehicleMaintenanceExpenses,   차량비
+1167,dart_RecruitExpenses,   사원모집비
+1174,dart_ReversalsOfImpairmentLossesOnInvestmentProperty,   투자부동산손상차손환입
+1175,dart_ReversalsOfAllowanceForOtherDoubtfulAccounts,   기타채권손상차손환입
+1181,dart_LossesOnDisposalOfInvestmentProperty,   투자부동산처분손실
+1182,dart_AllowanceForOtherDoubtfulAccounts,   기타채권손상차손
+1187,dart_OtherExpenseOfProvisions,   기타충당부채전입
+1192,dart_GainsFromFinancialGuaranteeFinancialIncome,   금융보증수익
+1195,dart_LossesOnValuationOfDerivativeFinancialInstrumentsFinancialExpense,   파생상품평가손실
+1196,dart_LossesFromFinancialGuaranteeFinanceExpense,   금융보증비용
+1257,ifrs-full_BasicEarningsLossPerShare,   주당순이익(손실)
+1275,ifrs-full_ComprehensiveIncome,총포괄손익 합계
+1297,ifrs-full_Revenue,Ⅰ.매출
+1299,ifrs-full_GrossProfit,Ⅲ. 매출총이익
+1301,dart_OperatingIncomeLoss,Ⅳ.영업이익(손실)
+1308,ifrs-full_ProfitLossBeforeTax,Ⅴ.법인세비용차감전순이익(손실)
+1309,ifrs-full_IncomeTaxExpenseContinuingOperations,Ⅵ. 법인세비용
+1310,ifrs-full_ProfitLoss,Ⅶ. 당기순이익(손실)
+1311,ifrs-full_OtherComprehensiveIncome,Ⅷ.기타포괄손익
+1317,ifrs-full_ComprehensiveIncome,Ⅸ.총포괄손익
+1318,ifrs-full_EarningsPerShareAbstract,Ⅹ.주당이익
+1337,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법 적용대상 관계기업과 공동기업의 기타포괄손익에 대한 지분(세후기타포괄손익)
+1355,ifrs-full_OtherComprehensiveIncome,II. 기타포괄손익
+1356,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 포괄손익
+1358,ifrs-full_ComprehensiveIncome,III. 총포괄손익
+1359,ifrs-full_EarningsPerShareAbstract,Ⅵ.주당손익
+1360,ifrs-full_BasicEarningsLossPerShare,   보통주 기본 및 희석주당손익
+1361,ifrs-full_DilutedEarningsLossPerShare,   구형우선주 기본 및 희석주당손익
+1378,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익(재측정요소 제외)에 대한 지분
+1417,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치금융자산 평가손익
+1451,ifrs-full_OtherComprehensiveIncome,기타포괄손익(세후)
+1455,ifrs-full_EarningsPerShareAbstract,지배기업 지분에 대한 주당손익
+1513,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 없는 항목
+1514,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정지분상품평가손익
+1515,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정지분상품처분손익
+1517,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치측정채무상품평가손익
+1556,ifrs-full_FinanceIncome,금융수익-유효이자율법에 따른 이자수익
+1566,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 채무상품 평가손익
+1570,ifrs-full_Revenue,매출액(영업수익)
+1573,ifrs-full_RevenueFromRoyalties,   브랜드수익
+1574,dart_RevenueFromRenderingOfServicesRental,   임대료수익
+1575,ifrs-full_RevenueFromDividends,   종속기업및관계기업배당금수익
+1592,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되는 항목
+1596,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당손익
+1607,dart_GainOnExemptionOfDebts,   채무면제이익
+1611,dart_WritedownsOfPropertyPlantAndEquipment,   유형자산손상차손
+1614,dart_LossesOnSaleOfInvestmentsInSubsidiaries,   종속기업투자손상차손
+1622,dart_GainsFromRedemptionOfBondsFinancialIncome,   사채상환이익(금융수익)
+1627,dart_LossesFromRedemptionOfBondsFinancialExpense,   사채상환손실
+1635,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      자산재평가손익
+1641,ifrs-full_RevenueFromRenderingOfServices,   운항수익
+1657,dart_BuildingMaintenanceExpenses,   건물관리비
+1666,dart_ElectronicFacilitiesExpenses,   전산유지비
+1674,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자손익
+1679,dart_GainsOnValuationOfFairValueFinancialAsset,   당기손익-금융자산평가이익
+1680,dart_GainsOnValuationOfForeignExchangeForward,   통화선도평가이익
+1681,dart_GainsOnTransactionOfForeignExchangeForward,   통화선도거래이익
+1687,dart_LossesOnValuationOfFairValueFinancialAsset,   당기손익-금융자산평가손실
+1688,dart_LossesOnValuationOfForeignExchangeForward,   통화선도평가손실
+1689,dart_LossesOnTransactionOfForeignExchangeForward,   통화선도거래손실
+1716,ifrs-full_ReclassificationAdjustmentsOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 평가손익의 세후재분류조정
+1729,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   확정급여제도의 재측정손익(세후기타포괄손익)
+1730,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   기타포괄손익-공정가치 측정 금융자산 평가손익(세후기타포괄손익)
+1740,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 순확정급여부채의 재측정요소 중 지분
+1741,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      관계기업의 기타포괄손익-공정가치금융자산 평가손익
+1742,ifrs-full_ComprehensiveIncome,당기 총포괄손익
+1765,ifrs-full_OtherComprehensiveIncome,법인세효과차감후기타포괄손익
+1769,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여제도의 재측정요소
+1770,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법이익잉여금변동
+1775,ifrs-full_OtherComprehensiveIncome,법인세비용차감후기타포괄손익
+1798,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      법인세효과
+1821,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익 공정가치 측정 금융자산 평가손실
+1829,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피 파생상품 평가손익
+1837,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산외환차이
+1838,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피
+1841,ifrs-full_OtherComprehensiveIncome,법인세비용차감후기타포괄이익(손실)
+1842,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 항목 :
+1845,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 있는 항목 :
+1855,ifrs-full_OtherComprehensiveIncome,기타포괄손익(법인세효과 차감후)
+1883,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 및 공동기업의 기타포괄손익에 대한 지분
+1935,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비(영업비용)
+1937,dart_DepreciationExpense,   감가상각비와 무형자산상각비
+2003,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익금융자산평가손익
+2042,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피 파생상품평가손익
+2043,ifrs-full_ComprehensiveIncome,분기 총포괄이익(손실)
+2074,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는 항목(세후기타포괄손익)
+2101,dart_SalariesWages,   종업원급여비용
+2103,dart_OutsourcingExpenses,   외주용역비
+2110,ifrs-full_ProfitLossBeforeTax,법인세비용차감전 계속영업이익
+2139,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정손익(세후)
+2238,dart_RoyaltyIncome,   기술료수입
+2291,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 포괄손익
+2292,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 지분상품 평가손익
+2304,dart_OrdinaryDevelopmentExpense,   연구개발비용
+2305,dart_BadDebtExpenses,   대손상각비(환입)
+2335,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는기타포괄손익
+2336,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      지분증권평가손익
+2337,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 있는 기타포괄손익
+2355,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      공정가치금융자산평가손익
+2373,ifrs-full_OtherComprehensiveIncome,분기기타포괄손익(법인세효과 차감 후)
+2383,dart_RevenueFromRenderingOfServicesBroadcastBusiness,   광고수익
+2384,ifrs-full_RevenueFromRoyalties,   사업수익
+2386,dart_CostOfSalesFromRenderingOfServicesBroadcastBusiness,   방송제작비
+2387,dart_CostOfSalesFromRoyalties,   사업비용
+2407,ifrs-full_RevenueFromDividends,   배당수익(매출액)
+2409,dart_MiscellaneousExpenses,   판매비와관리비
+2437,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업투자처분이익
+2457,dart_ReversalsOfProvisionsForReturnedGoods,   충당부채환입액
+2462,dart_OtherExpenseOfProvisions,   충당부채의 전입액
+2525,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채 재측정요소
+2544,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      보험수리적이익(손실)
+2614,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,   후속적으로 당기손익으로 재분류 되지 않는 포괄손익
+2688,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로  재분류되지 않는 기타포괄손익
+2730,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 기타포괄손익
+2764,ifrs-full_ProfitLossBeforeTax,법인세비용차감전 계속영업이익(손실)
+2765,ifrs-full_IncomeTaxExpenseContinuingOperations,계속영업법인세비용(효익)
+2766,ifrs-full_ProfitLossFromContinuingOperations,계속영업분기순이익(손실)
+2791,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 금융자산 평가손실
+2793,ifrs-full_EarningsPerShareAbstract,지배기업의 소유주비분에 대한 주당순이익
+2794,ifrs-full_BasicEarningsLossPerShare,   보통주주당순이익
+2812,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      부의지분법변동
+2830,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정 금융상품 평가손익
+2879,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(효익)
+2919,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되지 않는항목
+2922,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되는항목
+2923,ifrs-full_GainsLossesOnChangeInValueOfTimeValueOfOptionsNetOfTax,      파생금융상품평가손익
+2937,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄손익
+2998,dart_OperatingIncomeLoss,영업손익
+3079,ifrs-full_DilutedEarningsLossPerShare,희석주당이익(손실)
+3135,dart_OrdinaryDevelopmentExpense,   경상연구개발비
+3145,dart_ExpenseForManagementOfAffairs,   사무비
+3152,dart_GainsOnDisposalsOfFairValueFinancialAsset,   당기손익-공정가치금융자산거래이익
+3161,dart_LossesOnValuationOfFairValueFinancialAsset,   당기손익인식금융자산평가손실
+3162,dart_LossesOnSaleOfInvestmentsInAssociates,   관계기업/공동기업투자처분손실
+3164,dart_WritedownsOfInventories,   재고자산평가손실
+3191,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      보험수리적손익
+3245,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되는 포괄손익
+3321,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자이익(손실)
+3367,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,      지분상품에 대한 투자자산의 세전기타포괄손익
+3370,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeBeforeTax,      기타포괄손익-공정가치 측정 금융자산 평가손익(세전기타포괄손익)
+3381,ifrs-full_PostemploymentBenefitExpenseDefinedContributionPlans,"   퇴직급여비용, 확정기여제도"
+3449,ifrs-full_ProfitLoss,당(분)기순이익
+3474,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석 주당이익(손실)
+3503,ifrs-full_OtherComprehensiveIncome,당기세후기타포괄손익
+3508,ifrs-full_BasicEarningsLossPerShare,   기본(희석)주당순이익(손실)
+3521,ifrs-full_ProfitLossFromContinuingOperations,계속영업당기순이익(손실)
+3540,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치 측정 지분상품  평가손익
+3546,ifrs-full_RevenueFromSaleOfGoods,   상품의 판매로 인한 수익(매출액)
+3549,dart_CostOfSalesFromSaleOfGoods,   상품의 판매로 인한 수익(매출액)에 대한 매출원가
+3552,dart_TotalSellingGeneralAdministrativeExpenses,일반관리비
+3570,dart_SalesPromotionExpenses,   판매촉진비
+3571,dart_ResearchExpense,   조사연구비
+3576,dart_OutsourcingExpenses,   용역비
+3591,dart_GainsOnDisposalsOfShortTermFinancialInstrumentsFinancialIncome,   금융상품처분이익
+3592,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익인식금융자산평가이익
+3597,dart_LossesOnDisposalsOfHeldForTradingFinancialAssetsFinancialExpense,   금융자산처분손실
+3598,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"관계기업,공동기업,종속기업 관련 이익(손실)"
+3625,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산외환차이(세후기타포괄손익)
+3728,ifrs-full_BasicEarningsLossPerShare,   기본주당손익(손실)
+3729,ifrs-full_DilutedEarningsLossPerShare,   희석주당손익(손실)
+3751,ifrs-full_OtherComprehensiveIncome,세후 기타포괄손익
+3754,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      퇴직급여채무 재측정요소
+3759,dart_RevenueFromSaleOfGoodsMerchandise,   상품매출
+3760,dart_RevenueFromRenderingOfServicesRental,   배관임대매출
+3761,dart_RevenueContributionToConstruction,   공사부담금수익
+3764,dart_CostOfSalesFromRenderingOfServicesRental,   배관임대매출원가
+3779,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-금융자산평가손익
+3781,ifrs-full_EarningsPerShareAbstract,지배기업 소유주지분에 대한 주당순이익
+3818,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 금융자산 평가손익(지분상품)
+3820,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 평가손익(채무상품)
+3827,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      보험수리적 손익
+3845,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는항목
+3908,dart_LeaseExpenses,   리스료
+3912,dart_GainsOnDisposalsOfAvailableForSaleFinancialAssets,   매도가능금융자산처분이익
+3918,dart_LossesOnDisposalOfAvailableForSaleFinancialAssets,   매도가능금융자산처분손실
+3967,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가손익
+3994,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      투자자산평가손익
+4000,dart_TotalSellingGeneralAdministrativeExpenses,관리비
+4013,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 금융자산 평가손익
+4014,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      당기손익으로 재분류되지 않는 항목의 법인세
+4017,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석주당이익
+4031,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업 투자주식 관련손익
+4078,dart_OtherGains,기타손익
+4086,ifrs-full_ProfitLoss,당기의 순이익
+4169,ifrs-full_BasicEarningsLossPerShare,   기본주당분기순이익(손실)
+4170,ifrs-full_DilutedEarningsLossPerShare,   희석주당분기순이익(손실)
+4181,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(손실)
+4185,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치 측정 금융자산평가손익
+4244,ifrs-full_FinanceCosts,금융비용.
+4248,ifrs-full_OtherComprehensiveIncome,기타포괄손익.
+4286,ifrs-full_OtherComprehensiveIncome,법인세차감후기타포괄손익
+4287,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지않는 항목
+4365,ifrs-full_EarningsPerShareAbstract,지배기업 소유주지분에 대한 주당손익
+4381,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되지 않는 항목
+4383,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 될 수 있는 항목
+4417,dart_GainsOnDisposalsOfInvestments,   투자자산처분이익
+4420,dart_GainsFromRedemptionOfBonds,   사채상환이익
+4443,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치지분상품평가손익
+4550,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 지분상품 평가손익
+4552,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 채무상품 평가손익
+4671,ifrs-full_IncomeTaxExpenseContinuingOperations,계속영업손익법인세비용
+4679,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업기본주당손익
+4680,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   계속영업희석주당손익
+4681,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업기본주당손익
+4682,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,   중단영업희석주당손익
+4817,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRevaluation,      자산재평가손익(세전기타포괄손익)
+4838,ifrs-full_OtherComprehensiveIncome,법인세효과차감후 기타포괄손익
+4920,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되는 항목
+4962,ifrs-full_ProfitLossBeforeTax,법인세비용차감전사업손익
+4963,ifrs-full_IncomeTaxExpenseContinuingOperations,계속사업손익법인세비용
+4964,ifrs-full_ProfitLossFromContinuingOperations,계속사업이익(손실)
+4997,ifrs-full_GrossProfit,매출총손익
+5026,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적적으로 재분류되지 않는항목
+5060,dart_ElectricPowerExpense,   수도광열비 및 전력비
+5084,dart_GainsOnValuationOfInvestmentAssets,   투자자산평가이익
+5091,dart_WritedownsOfInventories,   재고자산감모손실
+5092,dart_LossesOnValuationOfInvestmentAssets,   투자자산평가손실
+5137,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업투자손익
+5147,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      공정가치 측정 금융자산 평가손익
+5182,ifrs-full_ProfitLossBeforeTax,계속사업 법인세비용차감전순이익(손실)
+5190,ifrs-full_BasicEarningsLossPerShare,   기본주당계속엽업이익
+5191,ifrs-full_DilutedEarningsLossPerShare,   희석주당계속영업이익
+5213,ifrs-full_OtherComprehensiveIncome,당기세후기타포괄이익(손실)
+5373,ifrs-full_OtherComprehensiveIncome,당기기타포괄이익(손실)
+5437,dart_RevenueFromSaleOfGoodsProduct,   제품매출
+5461,dart_ExpenseForManagementOfAffairs,   사무용품비
+5471,dart_ImpairmentLossRecoveryOfAccountsReceivables,   매출채권및기타수취채권손상차손(환입)
+5485,dart_GainsOnValuationOfHeldForTradingFinancialAssetsFinancialIncome,   당기손익-공정가치측정 평가이익
+5495,ifrs-full_BasicEarningsLossPerShare,   기본주당손실
+5496,ifrs-full_DilutedEarningsLossPerShare,   희석주당손실
+5558,ifrs-full_RevenueFromRoyalties,   브랜드로열티매출
+5631,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익 재분류 항목
+5633,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익 비재분류 항목
+5798,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 채무상품 평가손익(세후기타포괄손익)
+5801,ifrs-full_BasicEarningsLossPerShare,   보통주주당이익(손실)
+5983,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당순손익
+6024,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여채무의 재측정요소
+6072,ifrs-full_ProfitLossBeforeTax,법인세비용차감전손익
+6080,ifrs-full_BasicEarningsLossPerShare,   계속영업기본(희석)주당손익
+6176,ifrs-full_EarningsPerShareAbstract,지배회사 소유지분에 대한 주당이익
+6177,ifrs-full_BasicEarningsLossPerShare,   보통주 계속영업기본및희석주당순이익
+6207,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 평가손익
+6291,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      당기손익인식지정금융부채평가손익
+6386,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여채무의 재측정요소
+6407,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산이익(손실)
+6467,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자관련이익
+6579,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 항목:
+6582,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 있는 항목:
+6583,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치채무상품 평가손익
+6584,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      종속기업 및 관계기업 기타포괄손익에 대한 지분해당액
+6587,ifrs-full_OtherComprehensiveIncome,계속기타포괄손익
+6589,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      퇴직급여부채의 재측정요소
+6604,ifrs-full_ProfitLossFromContinuingOperations,계속영업 분기순이익(손실)
+6605,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업 분기순이익(손실)
+6698,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능증권평가손익
+6713,ifrs-full_ProfitLoss,당기순손익
+6716,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      종업원급여재측정요소
+6717,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익공정가치측정 금융자산평가손익
+6756,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업손익
+6764,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정지분상품 평가손익
+6776,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeBeforeTax,      기타포괄손익-공정가치측정 채무상품 평가손익
+6778,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss,      당기손익으로 재분류될 수 있는 항목의 법인세
+6836,dart_UtilityExpenses,   동력용수비
+6847,dart_SamplesExpenses,   견본비
+6850,dart_Commissions,   제수수료
+6855,dart_TrainingExpenses,   교육비
+6857,dart_AfterServiceExpenses,   납후봉사비
+6884,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익 -공정가치 금융자산평가손익
+6902,ifrs-full_OtherComprehensiveIncome,기타포괄이익(손실)
+6955,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업에 대한 지분법손익
+6967,ifrs-full_BasicEarningsLossPerShare,   1. 보통주기본주당순이익
+6970,ifrs-full_RevenueFromRoyalties,   로열티수익(매출액)
+6990,ifrs-full_Revenue,Ⅰ.매출액(주석3.24)
+6991,ifrs-full_CostOfSales,Ⅱ.매출원가(주석24)
+6993,dart_TotalSellingGeneralAdministrativeExpenses,1.판매비와관리비(주석3.19.21.24.28)
+6994,dart_OperatingIncomeLoss,Ⅳ.영업이익
+6995,dart_OtherGains,1.기타수익(주석22.24)
+6996,dart_OtherLosses,2.기타비용(주석22.24)
+6997,ifrs-full_FinanceIncome,3.금융수익(주석3.23.24)
+6998,ifrs-full_FinanceCosts,4.금융비용(주석3.23.24)
+6999,ifrs-full_ProfitLossBeforeTax,Ⅴ.법인세비용차감전순이익(주석24)
+7000,ifrs-full_IncomeTaxExpenseContinuingOperations,Ⅵ.법인세비용(주석3.25)
+7001,ifrs-full_ProfitLoss,Ⅶ.당기순이익(손실)
+7006,ifrs-full_ComprehensiveIncome,Ⅸ.당기총포괄손익
+7007,ifrs-full_EarningsPerShareAbstract,Ⅹ.주당이익(주석3.26)
+7008,ifrs-full_BasicEarningsLossPerShare,   1.기본주당이익
+7082,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 금융자산 평가손익
+7085,ifrs-full_BasicEarningsLossPerShare,   계속영업 주당손익
+7108,dart_RevenueFromRenderingOfServicesBroadcastBusiness,   통신매출
+7109,dart_RevenueFromRenderingOfServicesEducation,   교육매출
+7114,dart_CostOfSalesFromRenderingOfServicesBroadcastBusiness,   통신매출원가
+7115,dart_CostOfSalesFromRenderingOfServicesEducationBusiness,   교육매출원가
+7152,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      매도가능금융자산의 세후재측정이익
+7153,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 세후기타포괄손익
+7239,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 보험수리적손익(세후기타포괄손익)
+7242,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익에 대한 지분
+7280,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여제도재측정요소
+7283,ifrs-full_GrossProfit,영업수익(매출)
+7288,dart_MiscellaneousExpenses,   판매관리비
+7289,dart_OrdinaryDevelopmentExpense,   연구개발비
+7300,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 손익으로 재분류되지 않는 항목
+7308,dart_TotalSellingGeneralAdministrativeExpenses,판매관리비
+7340,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   1. 후속적으로 당기손익으로 재분류되는 항목
+7342,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   2. 후속적으로 당기손익으로 재분류되지 않는 항목
+7346,ifrs-full_BasicEarningsLossPerShare,   지배기업 소유주 기본주당이익
+7347,ifrs-full_DilutedEarningsLossPerShare,   지배기업 소유주 희석주당이익
+7363,dart_OtherGains,투자손익
+7374,ifrs-full_BasicEarningsLossPerShare,   지배기업소유주 기본주당손익
+7380,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채 재평가손익
+7417,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는포괄손익
+7419,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정금융자산평가
+7495,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익 재분류불가능
+7497,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익금융자산평가
+7530,dart_SalariesWages,   급여 및 퇴직급여
+7532,dart_DepreciationExpense,   유무형자산상각비
+7536,dart_MiscellaneousExpenses,   기타판매관리비
+7547,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-재평가적립금
+7554,ifrs-full_DilutedEarningsLossPerShare,   희석화주당순이익
+7633,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는 포괄손익
+7634,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      종업원급여 재측정요소
+7731,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익(순손실)
+7736,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      유형자산재평가이익(손실)
+7737,ifrs-full_ComprehensiveIncome,당분기총포괄이익(손실)
+7738,ifrs-full_EarningsPerShareAbstract,지배기업의 소유지분에 대한 주당손익
+7858,dart_InterestExpenseFinanceExpense,   금융비용
+7859,dart_OtherFinancialExpenses,   기타영업외비용
+7883,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   1. 후속적으로 당기손익으로 재분류되지 않는 항목
+7886,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   2. 후속적으로 당기손익으로 재분류될 수 있는 항목
+7889,ifrs-full_BasicEarningsLossPerShare,   기본보통주주당이익(손실)
+7890,ifrs-full_DilutedEarningsLossPerShare,   기본우선주주당이익(손실)
+7921,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업 손익에 대한 지분
+7925,ifrs-full_OtherComprehensiveIncome,법인세비용차감 후 기타포괄손익
+7987,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법 적용대상 관계기업 수익(비용)
+7993,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 적용대상 관계기업 지분변동
+8054,ifrs-full_ComprehensiveIncome,분기포괄손익
+8056,ifrs-full_BasicEarningsLossPerShare,   지배지업 지분에 대한 주당이익(손실)
+8087,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,   당기손익으로 재분류되지 않는 항목:
+8145,dart_GainsOnValuationOfFairValueFinancialAsset,   공정가치측정금융자산평가이익
+8151,dart_LossesOnValuationOfFairValueFinancialAsset,   공정가치측정금융자산평가손실
+8152,dart_LossesOnDisposalOfFairValueFinancialAsset,   공정가치측정금융자산처분손실
+8200,dart_ExportOverallExpense,   해외시장개척비
+8203,dart_DelinquentChargeIncome,   이자수입
+8212,dart_LossesOnDispositionOfReceivables,   매출채권처분손실
+8226,dart_LossesFromRedemptionOfBondsFinancialExpense,   사채상환손실(금융원가)
+8274,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 적용대상 관계기업과 공동기업의 기타포괄손익에 대한 지분
+8292,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법 자본변동
+8315,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 항목:
+8338,ifrs-full_EarningsPerShareAbstract,주당순손실
+8339,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석 주당순손실
+8351,ifrs-full_ComprehensiveIncome,당기포괄손익
+8428,ifrs-full_BasicEarningsLossPerShare,   보통주기본주당순이익
+8429,ifrs-full_DilutedEarningsLossPerShare,   보통주희석주당순이익
+8456,ifrs-full_OtherComprehensiveIncome,세후 기타포괄이익(손실)
+8460,ifrs-full_ComprehensiveIncome,세후 총포괄이익(손실)
+8462,dart_RevenueFromSaleOfGoodsProduct,   제품
+8463,dart_RevenueFromSaleOfGoodsMerchandise,   상품
+8484,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피손익
+8507,dart_ElectricPowerExpense,   전력비
+8529,dart_LentIncome,   임대료
+8633,ifrs-full_BasicEarningsLossPerShare,   계속사업 기본 및 희석주당순이익
+8673,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,"      공동기업, 관계기업 기타포괄손익 중 지분해당액"
+8694,dart_GasAndOilExpenses,   연료비
+8711,dart_ProductRepairExpenses,   판매수수료
+8713,dart_ExperimentalResearchExpenses,   실험비
+8734,dart_GainsOnTransactionOfDerivativeFinancialInstrumentsFinancialIncome,   파생상품거래이익
+8741,dart_LossesOnTransactionOfDerivativeFinancialInstrumentsFinancialExpense,   파생상품거래손실
+8747,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채의재측정요소
+8750,ifrs-full_BasicEarningsLossPerShare,   기본및 희석주당이익(손실)
+8812,ifrs-full_BasicEarningsLossPerShare,   지배기업지분순이익의 기본주당이익(손실)
+8813,ifrs-full_DilutedEarningsLossPerShare,   지배기업지분순이익의 희석주당이익(손실)
+8816,dart_RevenueFromSaleOfGoodsRealEstate,   분양수익
+8821,dart_OtherCostOfSales,   기타원가
+8836,ifrs-full_Revenue,Ⅰ.영업수익
+8837,ifrs-full_CostOfSales,Ⅱ.영업비용
+8843,dart_OperatingIncomeLoss,Ⅲ.영업이익
+8848,ifrs-full_ProfitLossBeforeTax,IV.법인세비용차감전순이익
+8851,ifrs-full_OtherComprehensiveIncome,Ⅵ.기타포괄손익
+8854,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익공정가치측정금융자산평가손익
+8856,ifrs-full_ComprehensiveIncome,Ⅶ.총포괄손익
+8857,ifrs-full_EarningsPerShareAbstract,Ⅷ.주당이익(손실)
+8863,dart_TotalSellingGeneralAdministrativeExpenses,판매비와일반관리비
+8874,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 포괄손익:
+8876,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정퇴직급여제도의 재측정요소
+8916,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss,      당기손익으로 재분류될수 있는 항목의 법인세
+8972,ifrs-full_ComprehensiveIncome,분기포괄이익(손실)
+8997,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법적용대상관련지분해당액
+9002,ifrs-full_EarningsPerShareAbstract,지배기업지분에대한주당이익
+9004,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본주당이익
+9014,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업지분법손익
+9077,ifrs-full_Revenue,I. 매출액
+9078,ifrs-full_CostOfSales,II. 매출원가
+9079,ifrs-full_GrossProfit,III. 매출총이익
+9080,dart_TotalSellingGeneralAdministrativeExpenses,IV. 판매비와관리비
+9081,dart_OperatingIncomeLoss,V. 영업이익(손실)
+9088,ifrs-full_ProfitLossBeforeTax,VIII. 법인세비용차감전순이익(손실)
+9089,ifrs-full_IncomeTaxExpenseContinuingOperations,IX. 법인세비용
+9091,ifrs-full_OtherComprehensiveIncome,XI. 기타포괄손익
+9094,ifrs-full_ComprehensiveIncome,XII. 총포괄손익
+9095,ifrs-full_EarningsPerShareAbstract,XV. 주당이익
+9104,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업으로부터의 기타수익(비용)
+9113,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 적용관계기업의 기타포괄손익에 대한 지분(세후기타포괄손익)
+9201,dart_RevenueFromSaleOfGoodsFishing,   어획물매출액
+9207,dart_CostOfSalesFromSaleOfGoodsFishing,   어획물매출원가
+9210,dart_CostOfSalesFromRenderingOfServicesDistribution,   물류매출원가
+9216,ifrs-full_FinanceIncome,순금융비용
+9224,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업분기순이익
+9226,ifrs-full_OtherComprehensiveIncome,법인세비용차감후 기타포괄손익
+9248,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정요소(세후기타포괄손익)
+9353,dart_ExperimentalResearchExpenses,   연구비
+9360,dart_AfterServiceExpenses,   A/S비용
+9378,dart_GainsOnDisposalsOfFairValueFinancialAssetFinancialIncome,   당기손익공정가치금융자산처분이익
+9379,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익공정가치금융자산평가이익
+9385,dart_LossesOnValuationOfFairValueFinancialAssetFinancialExpense,   당기손익공정가치금융자산평가손실
+9439,ifrs-full_FinanceIncome,금융수익-기타
+9451,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      공정가치측정 금융자산 평가이익 세후기타포괄손익
+9456,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   계속영업기본및희석주당순손실
+9457,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,   중단영업기본및희석주당순이익(손실)
+9458,ifrs-full_Revenue,수익
+9462,dart_FreightExpenses,   물류비
+9484,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업과 관계기업으로부터의 이익
+9490,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익 - 공정가치로 측정하는 지분상품투자 평가손익
+9540,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   1. 후속적으로 당기손익으로 재분류되지 않는 항목 :
+9542,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      토지재평가차익
+9543,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   2. 후속적으로 당기손익으로 재분류되는 항목 :
+9665,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법기타포괄손익
+9739,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      법인세 효과
+9789,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 채무상품 평가손익(세후기타포괄손익)
+9824,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지  않는 포괄손익
+9891,ifrs-full_FinanceIncome,순금융수익
+9894,dart_OtherGains,기타영업외손익
+9897,ifrs-full_ProfitLossBeforeTax,계속영업법인세비용차감전순이익(손실)
+9908,dart_TotalSellingGeneralAdministrativeExpenses,기타판매비와관리비
+9934,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는항목(세후기타포괄손익)
+9973,ifrs-full_OtherComprehensiveIncome,당기 세후 기타포괄손익
+10244,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자주식 손익
+10504,ifrs-full_CostOfSales,II.매출원가
+10505,ifrs-full_GrossProfit,III.매출총이익
+10506,dart_TotalSellingGeneralAdministrativeExpenses,IV.판매비와관리비
+10507,dart_OperatingIncomeLoss,V.영업이익
+10509,ifrs-full_FinanceCosts,Ⅶ.금융비용
+10510,dart_OtherGains,Ⅷ.기타수익
+10511,dart_OtherLosses,Ⅸ.기타비용
+10512,ifrs-full_ProfitLossBeforeTax,Ⅹ.법인세비용차감전순이익
+10513,ifrs-full_IncomeTaxExpenseContinuingOperations,XI.법인세수익
+10514,ifrs-full_ProfitLoss,5. 당기순이익
+10515,ifrs-full_OtherComprehensiveIncome,XⅢ.기타포괄손익
+10516,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   (1)후속적으로 당기손익으로 재분류되지 않는 기타포괄손익
+10517,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      1.순확정급여부채 재측정요소
+10518,ifrs-full_ComprehensiveIncome,XIV.총포괄손익
+10519,ifrs-full_EarningsPerShareAbstract,XV.주당순이익
+10520,ifrs-full_BasicEarningsLossPerShare,   (1)기본주당순손익
+10521,ifrs-full_DilutedEarningsLossPerShare,   (2)희석주당순손익
+10535,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는 기타포괄손익
+10552,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세등
+10559,ifrs-full_BasicEarningsLossPerShare,   보통주 기본주당이익(손실)
+10560,ifrs-full_DilutedEarningsLossPerShare,   보통주 희석주당이익(손실)
+10607,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,공동기업투자 관련 손익
+10656,ifrs-full_LossesArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,기타의수취채권손상차손
+10662,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      기타금융자산평가이익
+10663,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsNetOfTax,      기타금융자산재분류조정
+10666,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타금융자산평가손실
+10674,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여제도의 재측정 요소
+10848,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세수익
+10932,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치금융자산 평가손실
+10978,dart_CostOfSalesFromRenderingOfServices,   영업원가
+11034,ifrs-full_ComprehensiveIncome,분기포괄이익
+11101,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정금융상품평가손익
+11155,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당계속영업이익
+11208,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업 및 관계기업 관련손익
+11226,ifrs-full_FinanceIncome,금융이익-유효이자율에 따른 이자수익
+11242,ifrs-full_BasicEarningsLossPerShare,   계속영업과 중단영업
+11244,ifrs-full_RevenueFromSaleOfGoods,   재화매출액
+11247,dart_CostOfSalesFromSaleOfGoods,   재화매출원가
+11276,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법수익(비용)
+11365,ifrs-full_Revenue,I. 영업수익
+11372,ifrs-full_CostOfSales,II. 영업비용
+11379,dart_OperatingIncomeLoss,III. 영업이익
+11386,ifrs-full_ProfitLossBeforeTax,VI. 법인세비용차감전순이익
+11387,ifrs-full_IncomeTaxExpenseContinuingOperations,VII. 법인세비용
+11388,ifrs-full_ProfitLoss,VIII. 분기순이익
+11392,ifrs-full_ComprehensiveIncome,X. 총포괄손익
+11393,ifrs-full_EarningsPerShareAbstract,XIII. 주당순이익
+11430,dart_ProductWarrantyExpensesRecovery,   판매보증비
+11466,ifrs-full_RevenueFromInterest,   기타의영업수익
+11479,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법이익잉여금의변동
+11539,dart_AfterServiceExpenses,   품질보증비
+11542,dart_GainsOnDisposalsOfFairValueFinancialAsset,   당기손익-공정가치 금융자산 처분이익
+11543,dart_GainsOnValuationOfFairValueFinancialAsset,   당기손익-공정가치 금융자산 평가이익
+11549,dart_LossesOnDisposalOfFairValueFinancialAsset,   당기손익-공정가치 금융자산 처분손실
+11550,dart_LossesOnValuationOfFairValueFinancialAsset,   당기손익-공정가치 금융자산 평가손실
+11682,ifrs-full_FinanceIncome,유효이자율법을 사용하여 계산한 이자수익
+11776,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      토지재평가잉여금
+11835,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치로 측정하는지분상품 공정가치 변동
+11954,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      이자율스왑평가손익(세후기타포괄손익)
+12025,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 자본 변동
+12035,dart_OtherGains,기타순손익
+12059,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업 및 관계기업손익
+12169,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   -후속적으로 당기 손익으로 재분류되지 않는 기타포괄손익:
+12205,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석주당순이익(손실)
+12264,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      종속·관계기업 기타포괄손익 중 지분해당액
+12274,dart_DepreciationExpense,   감가상각비와기타상각비
+12278,dart_OtherGains,기타손익 및 금융손익
+12379,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      재평가잉여금
+12381,ifrs-full_ComprehensiveIncome,총포괄손익(손실)
+12445,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능증권평가손익(세후기타포괄손익)
+12496,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여부채의 재측정요소
+12514,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   분기손익으로 재분류되지 않는항목(세후기타포괄손익)
+12517,ifrs-full_EarningsPerShareAbstract,지배기업의 소유주지분에대한 주당이익
+12521,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될수 없는 항목
+12522,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 지분상품평가손익
+12544,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여부채 재측정요소
+12586,ifrs-full_ProfitLossFromDiscontinuedOperations,중단사업이익(손실)
+12594,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속사업기본주당이익(손실)
+12714,dart_RevenueFromSaleOfGoodsRawMaterial,   원재료매출액
+12718,dart_CostOfSalesFromSaleOfGoodsRawMaterial,   원재료매출원가
+12753,dart_GainsOnSaleOfInvestmentsInAssociates,   관계기업투자처분이익
+12756,dart_GainsFromGovernmentGrants,   정부보조금수익
+12816,dart_ExportOverallExpense,   수출비용
+12842,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류될 수 있는 세후기타포괄손익
+12883,ifrs-full_ProfitLossBeforeTax,법인세차감전이익
+13027,ifrs-full_EarningsPerShareAbstract,보통주당이익
+13028,ifrs-full_BasicEarningsLossPerShare,   기본보통주당이익
+13029,ifrs-full_DilutedEarningsLossPerShare,   희석보통주당이익
+13034,ifrs-full_RevenueFromInterest,   대여금이자수익
+13089,dart_InvestmentPropertyDepreciationExpense,   투자부동산감가상각비
+13127,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      재평가차액
+13322,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여채무재측정요소
+13471,dart_OperatingIncomeLoss,IV.영업이익
+13476,ifrs-full_ProfitLossBeforeTax,V.법인세비용차감전순이익(손실)
+13478,ifrs-full_ProfitLossFromContinuingOperations,VI.계속영업순이익(손실)
+13480,ifrs-full_OtherComprehensiveIncome,VII.기타포괄손익
+13486,ifrs-full_ComprehensiveIncome,VIII.당기총포괄이익(손실)
+13487,ifrs-full_EarningsPerShareAbstract,Ⅸ.주당이익(손실)
+13661,dart_ExperimentalResearchExpenses,   시험비
+13670,dart_LossesOnDisposalsOfInvestments,   투자자산처분손실
+13674,dart_ImpairmentLossesOnInvestmentProperty,   투자부동산손상차손
+13684,dart_GainsOnDisposalsOfHeldForTradingFinancialAssetsFinancialIncome,   단기매매금융자산처분이익(금융수익)
+13691,dart_LossesOnValuationOfHeldForTradingFinancialAssetsFinancialExpense,   단기매매금융자산평가손실(금융원가)
+13758,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 금융자산 처분손익
+13824,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정 요소
+13884,dart_GainsOnSaleOfInvestmentAccountedForUsingEquityMethod,   지분법투자주식처분이익
+13925,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,기타수익(비용)
+13946,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될수 있는 항목
+13947,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업투자평가
+14066,ifrs-full_OtherComprehensiveIncome,기타포괄손익:
+14130,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정 지분상품
+14137,ifrs-full_RevenueFromSaleOfGoods,   제품 및 용역매출액
+14139,dart_CostOfSalesFromSaleOfGoods,   제품 및 용역매출원가
+14152,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      보험수리적손실
+14265,ifrs-full_ComprehensiveIncome,포괄손익
+14348,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산외환차이 세후재분류조정
+14357,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 항목(세후기타포괄손익)
+14491,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류 되지 않는 항목
+14494,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치로 측정하는 지분 상품 투자-공정가치 변동
+14495,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류 되는 항목
+14496,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가손익-재분류조정
+14514,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업및공동기업투자 관련 손익
+14524,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익에 대한 지분
+14629,dart_OtherGains,기타영업이익
+14725,ifrs-full_OtherComprehensiveIncome,연결기타포괄손익
+14781,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용 (수익)
+14810,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의재측정요소
+14890,ifrs-full_ComprehensiveIncome,당기포괄이익
+14898,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      파생상품평가
+14912,ifrs-full_ProfitLossBeforeTax,법인세비용차감전계속영업순이익
+14947,ifrs-full_OtherComprehensiveIncome,기타포괄손익(손실)
+14948,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   지분법자본변동
+14968,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자이익
+14994,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 보험수리적손익
+15014,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 측정 지분상품 평가 및 처분이익
+15040,ifrs-full_BasicEarningsLossPerShare,   보통주기본및희석주당이익
+15041,ifrs-full_DilutedEarningsLossPerShare,   우선주기본및희석주당이익
+15054,ifrs-full_OtherComprehensiveIncome,당기기타포괄손익
+15057,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      공정가치금융자산 평가손익
+15106,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      기타포괄손익-공정가치금융상품평가이익(손실)
+15158,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적 당기손익으로 재분류되지 않는 항목
+15214,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정지분상품
+15243,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업지분법손익
+15251,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossBeforeTax,      관계기업자본변동
+15260,dart_AdvertisingExpenses,   일반관리비
+15261,dart_FreightExpenses,   판매및물류비
+15284,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자이익
+15293,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      공정가치측정금융자산재평가손익(기타포괄손익)
+15295,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      장기투자증권평가손익
+15386,dart_RevenueFromSaleOfGoodsMerchandise,"      상품, 기타매출액"
+15390,dart_CostOfSalesFromSaleOfGoodsMerchandises,"      상품, 기타매출원가"
+15412,dart_ExportOverallExpense,   수출경비
+15423,dart_GainsOnSaleOfInvestmentsInSubsidiaries,   종속기업투자주식처분이익
+15430,dart_CompensationForDamage,   보상금
+15443,dart_GainsOnDisposalsOfAvailableForSaleFinancialAssetsFinancialIncome,   매도가능금융자산처분이익(금융수익)
+15452,dart_LossesOnDisposalsOfAvailableForSaleFinancialAssetsFinancialExpense,   매도가능금융자산처분손실(금융원가)
+15460,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 보험수리적손익의 세후기타포괄손익
+15623,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업지분법이익
+15631,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      관계기업 기타포괄손익변동에 대한 지분
+15687,ifrs-full_RevenueFromConstructionContracts,   건설계약수익
+15688,ifrs-full_RevenueFromSaleOfGoods,   재화판매수익
+15691,dart_CostOfSalesFromConstructionContracts,   건설계약수익원가
+15692,dart_CostOfSalesFromSaleOfGoods,   재화판매수익원가
+15693,dart_OtherCostOfSales,   기타수익원가
+15706,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익측정금융자산 평가이익(손실)
+15751,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자(손실)이익
+15758,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsBeforeTax,      당기손익-공정가치측정금융자산평가손익
+15763,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      기타포괄손익의 법인세효과
+15851,dart_OtherGains,기타이익(손실)
+15937,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      종속기업투자 재측정요소에 대한 지분
+15939,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      종속기업투자 기타포괄손익에 대한 지분
+16200,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여제도의 재측정손익
+16275,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되는 포괄손익
+16297,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 평가손실
+16561,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여의 재측정요소
+16579,ifrs-full_EarningsPerShareAbstract,기본주당이익
+16583,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치측정채무상품 평가손익
+16584,ifrs-full_ReclassificationAdjustmentsOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치측정채무상품 처분손익
+16634,dart_GainsFromGovernmentGrants,   정부보조금으로 인한 이익/보조금수익
+16635,dart_IncomeTaxRefunds,   법인세환급액
+16648,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치측정 금융자산 평가이익(금융수익)
+16649,dart_GainsOnDisposalsOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치측정 금융자산 처분이익(금융수익)
+16709,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는기타포괄손익
+16710,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      재측정요소
+16783,dart_ReversalsOfProvisionsForConstructionWarranty,   하자보수충당부채환입
+16789,dart_LossesOnDispositionOfReceivablesFinancialExpense,   매출채권처분손실(금융원가)
+16836,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익공정가치측정금융자산 평가손익
+16860,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석주당손익
+16861,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업 주당손익
+16862,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업 주당손익
+16898,ifrs-full_EarningsPerShareAbstract,지배회사의 소유주 지분에 대한 주당순손익
+16951,dart_FreightExpenses,   운임
+16970,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,      지분상품투자자산평가손익
+16974,ifrs-full_BasicEarningsLossPerShare,   기본보통주당이익(손실)
+16976,ifrs-full_DilutedEarningsLossPerShare,   희석보통주당이익(손실)
+17017,dart_CostOfSalesFromSaleOfGoodsProduct,   당기제품제조원가
+17049,dart_GainsOnValuationOfLongTermFinancialInstruments,   장기금융상품평가이익
+17057,dart_LossesOnValuationOfLongTermFinancialInstruments,   장금융상품평가손실
+17077,dart_MiscellaneousExpenses,   기타의판매비
+17124,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업 및 종속기업 순손익에 대한 지분
+17128,ifrs-full_OtherComprehensiveIncome,법인세비용 차감후 기타포괄손익
+17131,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익- 공정가치로 측정하는 지분상품의 공정가치 변동
+17133,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 및 종속기업의 기타포괄손익에 대한 지분
+17165,ifrs-full_Revenue,매출액.
+17175,dart_OtherLosses,기타영업외비용.
+17182,ifrs-full_ComprehensiveIncome,총포괄이익.
+17183,ifrs-full_EarningsPerShareAbstract,주당손익.
+17184,ifrs-full_BasicEarningsLossPerShare,   기본주당이익.
+17187,dart_RevenueFromRenderingOfServicesMovieShow,   영화상영수익
+17188,dart_RevenueFromSaleOfGoodsMerchandise,   매점수익
+17191,dart_CostOfSalesFromRenderingOfServicesMovieShow,   영화상영원가
+17192,dart_CostOfSalesFromSaleOfGoodsMerchandises,   매점원가
+17214,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비 및 물류비
+17274,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      보통주기본주당이익(손실)
+17275,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      우선주기본주당이익(손실)
+17277,ifrs-full_RevenueFromSaleOfGoods,   재화의 판매로 인한 매출액
+17281,dart_CostOfSalesFromSaleOfGoods,   재화의 판매로 인한 매출원가
+17339,ifrs-full_ProfitLossFromDiscontinuedOperations,중단사업이익
+17384,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      당기손익으로 재분류될 수 없는 항목의 법인세
+17460,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업이익(손실)
+17472,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업 기본 및 희석 주당이익(손실)
+17473,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업 기본 및 희석 주당이익(손실)
+17507,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적인으로 당기손익으로 재분류되는 항목
+17537,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정부채의 재측정손익
+17590,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업 및 공동기업 투자손익
+17604,dart_OtherLosses,기타영업손실
+17764,ifrs-full_BasicEarningsLossPerShare,   기본 및 희성주당이익
+17791,ifrs-full_ProfitLossBeforeTax,계속사업법인세비용차감전순이익(손실)
+17795,ifrs-full_EarningsPerShareAbstract,지배기업소유주지분에 대한 주당손익
+17811,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되지 않는항목
+17841,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      자산재평가손익(토지)
+17872,ifrs-full_ComprehensiveIncome,세후총포괄손익
+17904,ifrs-full_OtherComprehensiveIncome,기타포괄손익(법인세효과차감 후)
+18034,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업지분법손익
+18118,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정 지분상품 평가이익
+18245,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치금융자산
+18264,ifrs-full_ReclassificationAdjustmentsOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 처분손익
+18304,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   기타포괄손익-공정가치 측정 금융자산 평가손익
+18381,ifrs-full_OtherComprehensiveIncome,법인세비용차감후포괄손익
+18422,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   기타포괄손익-공정가치측정 금융자산 평가손익
+18477,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업당기순이익(손실)
+18503,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여부채에 대한 보험수리적손익
+18504,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   2. 후속적으로 당기손익으로 재분류되는 항목
+18518,dart_InterestIncomeFinanceIncome,   금융이익-유효이자율법에 따른 이자수익
+18645,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석 주당 순이익
+18689,ifrs-full_GainsLossesOnChangeInValueOfForwardElementsOfForwardContractsNetOfTax,      이자율스왑평가
+18691,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      부의지분법자본변동
+18725,dart_CeremonyExpenses,   행사비
+18891,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 평가손익 지분상품
+18906,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업투자이익
+18913,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      종속기업의 확정급여제도에 대한 지분
+18914,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 항목 :
+18915,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 평가이익
+18916,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      종속기업 기타포괄손익에 대한 지분
+18998,ifrs-full_WagesAndSalaries,      급여
+18999,ifrs-full_PostemploymentBenefitExpenseDefinedBenefitPlans,"      퇴직급여비용, 확정급여제도"
+19000,dart_EmployeeBenefits,      복리후생비
+19001,ifrs-full_SharebasedPaymentTransactions,      주식보상비용(환입)
+19097,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 분류되지 않는 항목
+19222,ifrs-full_ComprehensiveIncome,분기 총포괄손익
+19234,ifrs-full_ProfitLossBeforeTax,법인세비용차감전 당기순이익
+19238,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      공정가치 지분상품 평가손익
+19240,ifrs-full_EarningsPerShareAbstract,지배기업 지분에 대한 주당순손익
+19325,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채재측정요소
+19332,ifrs-full_OtherComprehensiveIncome,기타포괄이익
+19513,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되는 기타포괄손익
+19633,dart_DepreciationExpense,   유형및무형자산상각비
+19635,dart_PersonalExpense,   강사료
+19768,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      해외사업장환산손익
+19907,ifrs-full_BasicEarningsLossPerShare,   보통주기본주당분기순이익
+19912,dart_RevenueFromSaleOfGoodsRawMaterial,   재료매출액
+19917,dart_CostOfSalesFromSaleOfGoodsRawMaterial,   재료매출원가
+19944,dart_ExportOverallExpense,   수출비
+20047,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정금융자산(세후기타포괄손익)
+20122,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      당기순익으로 재분류되지 않는 항목의 법인세
+20264,ifrs-full_EarningsPerShareAbstract,Ⅷ. 주당이익
+20312,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업과 공동기업의 기타포괄손익에 대한 지분
+20314,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익에 대한 지분(세후기타포괄손익)
+20409,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정금융자산평가손익(지분상품)
+20433,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 기타포괄손익
+20547,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"종속기업, 관계기업 및 공동기업투자손익"
+20553,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      종속기업 및 관계기업의 기타포괄손익 지분
+20643,ifrs-full_OtherComprehensiveIncome,법인세차감후기타포괄이익(손실)
+20703,ifrs-full_ComprehensiveIncome,당기 총 포괄손익
+20813,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익 공정가치측정금융자산 평가
+20842,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치금융자산평가이익
+20919,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로재분류되지 않는항목
+21168,ifrs-full_ComprehensiveIncome,당총포괄손익
+21212,ifrs-full_Revenue,Ⅰ. 매출액
+21213,ifrs-full_CostOfSales,Ⅱ. 매출원가
+21215,dart_TotalSellingGeneralAdministrativeExpenses,Ⅳ. 판매비와관리비
+21216,dart_OperatingIncomeLoss,Ⅴ. 영업이익
+21217,dart_OtherGains,1. 기타수익
+21218,dart_OtherLosses,2. 기타비용
+21219,ifrs-full_FinanceIncome,3. 금융수익
+21220,ifrs-full_FinanceCosts,4. 금융비용
+21222,ifrs-full_ProfitLossBeforeTax,Ⅵ. 법인세비용차감전순이익
+21223,ifrs-full_IncomeTaxExpenseContinuingOperations,Ⅶ. 법인세비용
+21225,ifrs-full_OtherComprehensiveIncome,Ⅸ. 기타포괄손익
+21228,ifrs-full_ComprehensiveIncome,Ⅹ. 총포괄이익
+21313,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되는 포괄손익
+21316,ifrs-full_EarningsPerShareAbstract,지배기업지분에 대한 주당순손익
+21502,dart_ExpenseForManagementOfAffairs,   사무관리비
+21544,ifrs-full_OtherComprehensiveIncome,법인세차감 후 기타포괄손익
+21546,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여부채의 재측정요소(세후기타포괄손익)
+21635,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여채무 재측정요소
+21640,ifrs-full_DilutedEarningsLossPerShare,   중단사업기본주당이익(손실)
+21752,ifrs-full_ComprehensiveIncome,당기총포괄손실
+21798,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속기본주당이익(손실)
+21799,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   계속희석주당이익(손실)
+21861,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      공정가치측정 금융상품평가손익
+21901,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채 재측정 요소
+21964,ifrs-full_ProfitLossBeforeTax,법인세비용차감전 계속사업순이익(손실)
+21965,ifrs-full_IncomeTaxExpenseContinuingOperations,계속사업손익 법인세비용(수익)
+21966,ifrs-full_ProfitLossFromContinuingOperations,계속사업 분기순이익(손실)
+21974,ifrs-full_EarningsPerShareAbstract,지배기업 지분에 대한 주당손실
+22072,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법평가이익(손실)
+22099,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익측정금융자산평가손익
+22324,dart_FinancialCommissions,   금융지급수수료
+22335,ifrs-full_RevenueFromRoyalties,   기술이전수익
+22338,dart_DepreciationExpense,   상각비
+22354,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석 주당손익
+22434,ifrs-full_ProfitLossFromContinuingOperations,계속영업당기이익(손실)
+22435,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업당기이익(손실)
+22529,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"종속기업,공동기업투자주식관련손익"
+22703,ifrs-full_ProfitLossBeforeTax,법인세비용차감전계속사업이익
+22709,ifrs-full_BasicEarningsLossPerShare,   기본주당순이익및희석주당순이익
+22712,ifrs-full_RevenueFromRenderingOfServices,   투자조합수익
+22716,dart_CostOfSalesFromRenderingOfServices,   투자조합비용
+22717,dart_OtherCostOfSales,   기타의영업비용
+22742,ifrs-full_ProfitLossFromContinuingOperations,계속사업이익
+22748,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      공정가치금융자산평가
+22749,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      유형자산재평가손익
+22753,ifrs-full_BasicEarningsLossPerShare,   기본및희주당이익(손실)
+22791,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법자본변동(세후기타포괄손익)
+22793,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채의 재측정요소(세후기타포괄손익)
+22818,dart_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정요소(세전기타포괄손익)
+22874,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치금융자산 처분손익
+23211,ifrs-full_ProfitLossBeforeTax,Ⅴ.법인세차감전순이익
+23212,ifrs-full_IncomeTaxExpenseContinuingOperations,Ⅵ.법인세비용
+23229,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업의 손익에 대한 지분
+23235,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      유형자산재평가잉여금
+23238,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      종속기업의 기타포괄손익
+23300,ifrs-full_ProfitLoss,당분기순이익
+23322,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분상품 공정가치 변동
+23408,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측청지분상품평가손익
+23426,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로재분류되지않는포괄손익
+23427,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로재분류되는포괄손익
+23429,ifrs-full_EarningsPerShareAbstract,지배기업소유주지분
+23452,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      보통주 기본주및희석주당계속영업손익
+23513,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationBeforeTax,      종속기업 투자로 발생한 손익
+23527,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속·관계기업에대한손익
+23537,ifrs-full_BasicEarningsLossPerShare,   보통주 기본및희석주당이익
+23538,ifrs-full_DilutedEarningsLossPerShare,   우선주 기본및희석주당이익
+23552,ifrs-full_EarningsPerShareAbstract,지배기업의 소유주지분 주당순이익
+23554,ifrs-full_DilutedEarningsLossPerShare,   계속영업 기본주당순이익
+23564,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자관련손익
+23603,ifrs-full_ProfitLossBeforeTax,법인세비용차감전계속영업이익(손실)
+23607,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기순이익으로 재분류될 수 없는 항목
+23759,dart_MiscellaneousExpenses,   영업비용
+23773,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로재분류되지않는항목
+23776,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로재분류되는항목
+23777,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업투자주식자본변동
+23893,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치로 측정하는 지분상품투자
+23920,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 있는 포괄손익
+23926,ifrs-full_DilutedEarningsLossPerShare,   계속영업
+23935,ifrs-full_FinanceIncome,금융수익(유효이자율법에 따른 이자수익)
+23942,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로  재분류되지 않는항목
+24088,dart_DepreciationExpense,   유형자산상각비
+24198,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속ㆍ공동ㆍ관계기업투자손익
+24318,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자주식손상차손
+24353,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      기본주당이익
+24449,ifrs-full_FinanceCosts,순금융원가
+24466,dart_OtherGains,순기타수익(비용)
+24467,ifrs-full_FinanceIncome,순금융수익(원가)
+24510,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업 및 관계기업 투자손익
+24514,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익
+24521,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   기본주당계속영업이익
+24549,dart_OtherGains,투자이익
+24550,dart_OtherLosses,투자손실
+24646,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되지 않는포괄손익
+24664,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자관련손익
+24763,dart_RevenueFromServices,   서비스매출액
+24764,ifrs-full_OtherRevenue,   모바일상품권 매출액
+24767,dart_CostOfSalesFromServices,   서비스매출원가
+24785,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업지분법자본변동
+24986,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정금융자산 평가이익(손실)
+25001,dart_InterestIncomeFinanceIncome,   이자수익(유효이자율에따른이자수익)
+25007,dart_GainsFromFinancialGuaranteeFinancialIncome,   지급보증료수익
+25014,dart_LossesOnDisposalsOfAvailableForSaleFinancialAssetsFinancialExpense,   상각후원가측정금융자산처분손실
+25015,dart_LossesOnValuationOfFairValueFinancialAssetFinancialExpense,   당기손익-공정가치측정금융자산평가손실
+25016,dart_LossesFromFinancialGuaranteeFinanceExpense,   지급보증채무손실
+25021,ifrs-full_ComprehensiveIncome,분기총포괄손익(손실)
+25083,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 기타포괄손익:
+25086,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산
+25239,ifrs-full_ProfitLossBeforeTax,법인세차감전순이익(손실)
+25345,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치 측정 금융자산 평가손익 및 처분손익
+25399,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채의 재측정손익
+25420,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의보험수리적손익
+25506,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"종속기업, 관계기업투자지분 관련손익"
+25514,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치 측정 지분상품평가손익
+25574,ifrs-full_SharebasedPaymentTransactions,   주식보상비용
+25578,dart_ReversalsOfImpairmentLossesOnOtherNonCurrentAssets,   기타유동자산손상차손환입
+25585,dart_GainsOnDisposalsOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,   매각예정자산손상차손환입
+25596,dart_WritedownsOfPropertyPlantAndEquipment,   기타유동자산손상차손
+25609,ifrs-full_ProfitLossBeforeTax,법인세비용차감전계속사업순이익(손실)
+25617,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정금융자산 평가손실
+25663,dart_ImpairmentLossRecoveryOfAccountsReceivables,   매출채권손상차손
+25665,dart_MiscellaneousExpenses,   기타의판매비와관리비
+25688,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세혜택(비용)
+25695,ifrs-full_EarningsPerShareAbstract,지배기업 소유주지분에 대한 주당이
+25710,dart_GainsOnReimbursementOrCompensation,   보험차익
+25713,dart_AllowanceForOtherDoubtfulAccounts,   운휴자산감가상각비
+25799,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"종속,관계기업에 대한 손익"
+25859,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,투자수익
+25860,ifrs-full_LossesArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,투자비용
+26049,dart_RevenueFromRenderingOfServicesGame,      게임매출액
+26084,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   - 후속적으로 당기손익으로 재분류되는 기타포괄손익
+26087,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   - 후속적으로 당기손익으로 재분류되지 않는 기타포괄손익
+26155,ifrs-full_DilutedEarningsLossPerShare,   기본맟희석주당이익
+26243,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsBeforeTax,      매도가능금융자산평가손익의 세전재분류조정
+26489,ifrs-full_EarningsPerShareAbstract,지배기업소유주지분에 대한 주당이익
+26572,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정 금융자산관련 손익
+26594,ifrs-full_BasicEarningsLossPerShare,   1. 기본주당순이익
+26595,ifrs-full_DilutedEarningsLossPerShare,   2. 희석주당순이익
+26631,ifrs-full_BasicEarningsLossPerShare,   계속영업기본및희석주당순이익
+26884,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법 이익잉여금변동(재측정요소)
+26934,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기순손익으로 재분류될 수 있는 항목
+27078,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업 관련 이익
+27086,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법 이익잉여금
+27180,dart_GainsOnTransactionOfDerivativeFinancialInstrument,   파생금융상품거래이익
+27181,dart_GainsOnValuationOfDerivativeFinancialInstrument,   파생금융상품평가이익
+27183,dart_GainsArisingFromDifferenceBetweenPreviousAmortisedCostAndFairValueOfFinancialAssetsReclassifiedOutOfAmortisedCostIntoFairValueThroughProfitOrLossMeasurementCategory,   상각후원가에서 당기손익-공정가치 측정 범주로 재분류된 금융자산의 상각후원가와 공정가치의 차이로 생기는 이익
+27190,dart_LossesArisingFromDifferenceBetweenPreviousAmortisedCostAndFairValueOfFinancialAssetsReclassifiedOutOfAmortisedCostIntoFairValueThroughProfitOrLossMeasurementCategory,   상각후원가에서 당기손익-공정가치 측정 범주로 재분류된 금융자산의 상각후원가와 공정가치의 차이로 생기는 손실
+27247,ifrs-full_FinanceIncome,금융 손익
+27250,dart_OtherGains,기타 손익
+27316,ifrs-full_BasicEarningsLossPerShare,   기본주당순손실
+27317,ifrs-full_DilutedEarningsLossPerShare,   희석주당순손실
+27331,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossBeforeTax,      지분법이익잉여금의 변동
+27332,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossBeforeTax,   당기손익으로 재분류 되는 항목
+27453,dart_GainsOnValuationOfHeldForTradingFinancialAssets,   단기매매금융자산평가이익
+27454,dart_GainsOnDisposalsOfHeldForTradingFinancialAssets,   단기매매금융자산처분이익
+27457,dart_ReversalOfImpairmentLossesOnIntangibleAssets,   무형자산손상차손환입
+27466,dart_LossesOnValuationOfHeldForTradingFinancialAssets,   단기매매금융자산평가손실
+27553,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      파생상품자산ㆍ부채평가손익
+27566,dart_LossesOnDisposalsOfPropertyPlantAndEquipment,   기타비용
+27649,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 등의 기타포괄손익에 대한 지분
+27756,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본및희석주당이익(손실)
+27856,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는  포괄손익
+27882,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업투자주식처분이익
+27946,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      매도가능금융자산평가손익(기타포괄손익-공정가치측정지분상품)
+27949,ifrs-full_BasicEarningsLossPerShare,   지배기업 소유주의 기본주당이익(손실)
+27950,ifrs-full_DilutedEarningsLossPerShare,   지배기업 소유주의 희석주당이익(손실)
+27955,dart_OperatingIncomeLoss,IV. 영업이익
+27960,ifrs-full_ProfitLossBeforeTax,V. 법인세비용차감전순이익
+27961,ifrs-full_IncomeTaxExpenseContinuingOperations,VI. 법인세비용
+27962,ifrs-full_ProfitLoss,VII. 당기순이익
+27963,ifrs-full_OtherComprehensiveIncome,VIII. 기타포괄손익
+27964,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   1. 후속적으로 당기손익으로 재분류될 수 있는 항목
+27969,ifrs-full_EarningsPerShareAbstract,X. 주당이익
+28113,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      지분법자동변동
+28476,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업 및 관계기업투자 관련 손익
+28525,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류될 수 없는 항목
+28527,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      토지의 재평가이익
+28584,ifrs-full_BasicEarningsLossPerShare,   지배기업 소유주에 대한 기본주당손익
+28585,ifrs-full_DilutedEarningsLossPerShare,   지배기업 소유주에 대한 희석주당손익
+28728,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속및관계기업관련수익(비용)
+28795,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정자산 평가손익
+28958,dart_GainsOnReimbursementOrCompensation,   보상 및 배상금수익
+29109,ifrs-full_BasicEarningsLossPerShare,   계속영업주당손익
+29169,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄-공정가치측정금융자산평가이익(손실)
+29327,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당계속영업이익(손실)
+29347,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는 세후 기타포괄손익
+29377,dart_OtherGains,기타영업외수입
+29468,dart_InterestIncomeFinanceIncome,   금융이익 - 유효이자율법에 따른 이자수익
+29469,dart_OtherFinancialIncome,   금융이익 - 기타
+29471,dart_OtherFinancialExpenses,   금융비용 - 기타
+29505,dart_DepreciationExpense,   감가상각비와 상각비
+29511,dart_MiscellaneousIncome,   기타이익
+29515,dart_MiscellaneousLosses,   기타손실
+29534,dart_OperatingIncomeLoss,IV. 영업이익(손실)
+29540,ifrs-full_ProfitLossBeforeTax,V. 법인세비용차감전순이익(손실)
+29541,ifrs-full_ProfitLoss,VI. 당기순이익(손실)
+29542,ifrs-full_OtherComprehensiveIncome,VII. 기타포괄손익
+29545,ifrs-full_ComprehensiveIncome,VIII. 총포괄손익
+29546,ifrs-full_EarningsPerShareAbstract,IX. 주당손익
+29680,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,"      법인세비용차감후기타포괄손익, 확정급여제도의 재측정손익"
+29728,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익 - 공정가치 측정 금융상품 평가손익
+29735,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되는 기타포괄손익
+29818,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않은 항목 :
+29944,ifrs-full_OtherComprehensiveIncome,순확정급여부채의 재측정
+29963,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄-공정가치 금융자산 평가손익
+30013,ifrs-full_CostOfSales,영업원가
+30014,ifrs-full_GrossProfit,영업총이익
+30027,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여부채의 재측정요소 등
+30134,ifrs-full_IncomeTaxExpenseContinuingOperations,계속영업 법인세비용
+30148,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본주당손익(손실)
+30150,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업희석주당손익(손실)
+30349,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치지분상품 평가손익
+30455,ifrs-full_ComprehensiveIncome,총 포괄손익
+30469,dart_CostOfSalesFromRenderingOfServicesProcession,      임가공매출원가
+30567,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계회사손익지분
+30678,ifrs-full_GrossProfit,Ⅲ. 매출총이익(손실)
+30680,dart_OperatingIncomeLoss,Ⅳ. 영업이익(손실)
+30686,ifrs-full_ProfitLossBeforeTax,Ⅴ. 법인세비용차감전순이익(손실)
+30687,ifrs-full_IncomeTaxExpenseContinuingOperations,Ⅵ. 법인세비용(수익)
+30689,ifrs-full_OtherComprehensiveIncome,Ⅷ. 세후기타포괄손익
+30692,ifrs-full_ComprehensiveIncome,Ⅸ. 총포괄손익
+30693,ifrs-full_EarningsPerShareAbstract,Ⅹ. 지배기업지분에 대한 주당순이익
+30718,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      공정가치측정금융자산 평가손익
+30936,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업 및 공동기업 관련 손익
+30943,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피로 인한 손익
+30944,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업투자평가손익
+30961,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   매도가능증권평가손익
+30962,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   해외사업장환산차익
+31073,ifrs-full_RevenueFromRenderingOfServices,   용역제공수익
+31075,ifrs-full_RevenueFromRoyalties,   기술료수익
+31078,dart_CostOfSalesFromSaleOfGoods,   재화판매수익 매출원가
+31081,dart_CostOfSalesFromRenderingOfServices,   용역제공수익 매출원가
+31126,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익 비분류
+31157,dart_LeaseExpenses,   사용권자산상각비
+31183,dart_GainsOnValuationOfFairValueFinancialAsset,   전환사채평가이익
+31190,dart_WritedownsOfInventories,   재고자산폐기손실
+31191,dart_LossesOnValuationOfFairValueFinancialAsset,   전환사채평가손실
+31192,dart_OtherExpenseOfProvisions,   지급보증부채의 전입액
+31390,ifrs-full_FinanceIncome,금융수익 - 유효이자율법에 따른 이자수익
+31426,ifrs-full_BasicEarningsLossPerShare,   기본주당이익(손실) (단위 : 원)
+31427,ifrs-full_DilutedEarningsLossPerShare,   희석주당이익(손실) (단위 : 원)
+31435,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업 지분법손익
+31442,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 순확정급여부채의 재측정요소
+31449,ifrs-full_DilutedEarningsLossPerShare,   기본/희석주당순손익
+31462,ifrs-full_OtherComprehensiveIncome,분기 세후 기타포괄손익
+31463,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   분기손익으로 재분류되지 않는항목
+31506,dart_RevenueFromRenderingOfServicesTransportation,   1. 운임수입금
+31508,dart_RevenueFromRenderingOfServicesRental,   3. 임대수익
+31511,dart_CostOfSalesFromRenderingOfServicesTransportation,   1. 운송원가
+31514,dart_OperatingIncomeLoss,Ⅴ. 영업이익(손실)
+31515,dart_OtherGains,Ⅵ. 기타수익
+31516,dart_OtherLosses,Ⅶ. 기타비용
+31520,ifrs-full_ProfitLossBeforeTax,Ⅸ. 법인세비용차감전순이익(손실)
+31521,ifrs-full_IncomeTaxExpenseContinuingOperations,Ⅹ. 법인세비용(수익)
+31523,ifrs-full_OtherComprehensiveIncome,ⅩⅡ. 법인세비용차감후 기타포괄손익
+31525,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      1.기타포괄손익-공정가치금융자산평가손익
+31526,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      2.순확정급여부채의 재측정요소
+31528,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      1. 매도가능금융자산평가손익
+31529,ifrs-full_ComprehensiveIncome,ⅩIII. 총포괄손익
+31535,dart_DepreciationExpense,   감가상각 및 무형자산상각
+31561,dart_RevenueFromRenderingOfServicesTransportation,      운송매출
+31696,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      자산재평가잉여금
+31713,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자 손상차손
+31781,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      이자율스왑평가손익
+31826,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업투자주식관련손익
+31833,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 세후기타포괄손익
+31834,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정금융자산의 공정가치변동
+31856,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄-공정가치금융자산평가손익(세후기타포괄손익)
+31907,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업등에 대한 지분법손실
+32050,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정 금융자산평가손익(세후기타포괄손익)
+32070,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되지 않는 기타포괄손익
+32071,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      장기투자자산평가손익
+32351,dart_MiscellaneousExpenses,   대손상각비 외 판매비와관리비
+32458,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법이익잉여금 변동
+32469,dart_MembershipExpenses,   수취채권 손상차손
+32517,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 측정 금융상품의 평가손익
+32519,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      위험회피파생상품의 평가
+32520,ifrs-full_ReclassificationAdjustmentsOnCashFlowHedgesNetOfTax,      위험회피파생상품의 기타포괄손익 중 당기손익에 포함된 재분류 조정
+32620,dart_OtherGains,기타수익 및 기타비용
+32623,ifrs-full_FinanceIncome,순금융손익
+32661,dart_OperatingExpenses,판매비와 일반관리비
+32691,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      매도가능 증권의 포괄손익
+32722,ifrs-full_FinanceIncome,순금융수익(비용)
+32766,ifrs-full_EarningsPerShareAbstract,기본주당순손익
+32767,ifrs-full_BasicEarningsLossPerShare,   계속영업기본주당이익
+32789,dart_TotalSellingGeneralAdministrativeExpenses,판매원가
+32818,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      보험수리적손익-확정급여제도의 재측정손익(세후기타포괄손익)
+32850,ifrs-full_BasicEarningsLossPerShare,   기본주당계속영업손익
+32852,ifrs-full_DilutedEarningsLossPerShare,   희석주당계속영업손익
+32876,ifrs-full_Revenue,I. 매출
+32877,dart_RevenueFromSaleOfGoodsProduct,   1. 제품매출액
+32878,dart_RevenueFromSaleOfGoodsMerchandise,   2. 상품매출액
+32880,dart_CostOfSalesFromSaleOfGoodsProduct,   1. 제품매출원가
+32881,dart_CostOfSalesFromSaleOfGoodsMerchandises,   2. 상품매출원가
+32885,ifrs-full_FinanceIncome,1. 금융수익
+32886,ifrs-full_FinanceCosts,2. 금융비용
+32887,dart_OtherGains,3. 기타영업외수익
+32888,dart_OtherLosses,4. 기타영업외비용
+32889,ifrs-full_ProfitLossBeforeTax,Ⅵ. 법인세비용차감전순이익(손실)
+32891,ifrs-full_ProfitLossFromContinuingOperations,VIII. 계속영업이익(손실)
+32892,ifrs-full_ProfitLoss,IX. 당기순이익(손실)
+32893,ifrs-full_OtherComprehensiveIncome,X. 기타포괄손익
+32895,dart_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      1. 확정급여제도의 재측정요소
+32896,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      2. 기타포괄손익 법인세효과
+32898,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsBeforeTax,      1. 매도가능금융자산-재분류조정
+32899,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss,      3. 기타포괄손익 법인세효과
+32900,ifrs-full_ComprehensiveIncome,XI. 총포괄손익
+32901,ifrs-full_EarningsPerShareAbstract,XII. 주당이익
+32902,ifrs-full_BasicEarningsLossPerShare,   1. 기본주당이익(손실)
+32903,ifrs-full_DilutedEarningsLossPerShare,   2. 희석주당이익(손실)
+32997,dart_CostOfSalesFromRenderingOfServicesTransportation,      운송매출원가
+33108,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치평가손익
+33233,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      위험회피파생상품평가손익
+33400,ifrs-full_OtherComprehensiveIncome,기타포괄손실
+33454,ifrs-full_CostOfSales,비용(매출원가)
+33613,ifrs-full_ComprehensiveIncome,당기총포괄손익(손실)
+33713,ifrs-full_OtherComprehensiveIncome,기타포괄손익등
+33714,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   보험수리적손익
+33715,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   매도가능금융자산평가손익
+33726,dart_OtherGains,기타 영업외수익
+33727,dart_OtherLosses,기타 영업외비용
+34100,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 있는 항목(세후기타포괄손익)
+34127,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정금융자산(지분증권) 평가
+34137,ifrs-full_FinanceIncome,금융수익-유효이자율법으로 측정한 금융수익
+34148,ifrs-full_DilutedEarningsLossPerShare,   우선주 기본주당이익
+34156,ifrs-full_FinanceIncome,금융수익-기타금융수익
+34167,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   보통주 계속영업주당이익(손실)
+34168,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   우선주 계속영업주당이익(손실)
+34259,dart_GainsOnTransactionOfForeignExchangeForwardFinancialIncome,   통화선도거래이익(금융수익)
+34266,dart_LossesOnTransactionOfForeignExchangeForwardFinancialExpense,   통화선도거래손실(금융원가)
+34316,dart_InvestmentPropertyDepreciationExpense,   투자부동산상각비
+34322,dart_PublicRelationExpense,   홍보비
+34350,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익공정가치측정금융자산평가이익
+34351,dart_GainsOnDisposalsOfFairValueFinancialAssetFinancialIncome,   당기손익공정가치측정금융자산처분이익
+34357,dart_LossesOnDisposalsOfFairValueFinancialAssetFinancialExpense,   당기손익공정가치측정금융자산처분손실
+34497,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익 지분
+34540,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      투자금융자산평가손익
+34577,ifrs-full_BasicEarningsLossPerShare,   주당이익
+34620,dart_RevenueFromSaleOfGoodsRawMaterial,      원재료매출액
+34649,dart_WorkersAccidentCompensationInsuranceExpenses,   산재보험료
+34655,dart_ByproductsProceeds,   부산물수입
+34669,dart_ImpairmentLossesOnAvailableForSaleFinancialAssets,   매도가능금융자산손상차손
+34693,ifrs-full_GainsLossesOnChangeInValueOfForeignCurrencyBasisSpreadsNetOfTax,      외화환산적립금
+34743,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익 공정가치 측정 금융자산평가손익(세후기타포괄손익)
+34806,dart_OperatingIncomeLoss,Ⅴ.영업이익(손실)
+34817,ifrs-full_OtherComprehensiveIncome,XII.기타포괄손익
+34821,ifrs-full_ComprehensiveIncome,XIII.총포괄손익
+34822,ifrs-full_EarningsPerShareAbstract,XIV.주당이익
+34838,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 금융자산의 공정가치 변동
+34946,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업과관계기업및공동기업투자이익
+35069,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 기타포괄손익 :
+35071,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 기타포괄손익 :
+35116,dart_ReversalsOfProvisionsForConstructionLosses,   공사손실충당부채환입
+35207,dart_RevenueFromConstruction,   건설계약매출
+35211,dart_CostOfSalesFromConstructionContracts,   건설계약매출원가
+35246,dart_GainsOnSaleOfInvestmentsInSubsidiaries,   종속기업투자이익
+35258,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순손익(손실)
+35263,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업외환손익
+35321,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정금융자산의평가손익
+35386,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산손실
+35389,ifrs-full_ComprehensiveIncome,세후 총포괄손익
+35452,ifrs-full_OtherRevenue,   기타수입
+35456,dart_OtherCostOfSales,   기타수입원가
+35494,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossBeforeTax,   후속적으로 당기손익으로 재분류 될수있는 항목
+35587,dart_RevenueFromRenderingOfServicesGame,   사교장수입
+35590,dart_CostOfSalesFromRenderingOfServicesGames,   사교장원가
+35629,ifrs-full_ComprehensiveIncome,VIII. 총포괄이익
+35671,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      금융자산평가손익
+35760,dart_GainsOnValuationOfLongTermFinancialInstruments,   영업외수익
+35761,dart_GainsOnDisposalsOfPropertyPlantAndEquipment,   영업외비용
+35878,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄-공정가치금융자산평가손익
+36029,ifrs-full_OtherComprehensiveIncome,연결기타포괄이익
+36033,ifrs-full_ComprehensiveIncome,연결총포괄이익
+36043,dart_RevenueFromRenderingOfServicesProcession,      임가공/기타매출
+36109,ifrs-full_OtherReversalsOfProvisions,   기타충당부채의 환입
+36116,dart_OtherExpenseOfProvisions,   보증채무손실
+36159,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"종속기업, 관계기업 투자지분 관련손익"
+36172,dart_RevenueFromSaleOfGoodsRawMaterial,      A/S매출액
+36173,dart_RevenueFromSaleOfGoodsTire,      기타매출
+36175,dart_RevenueFromServices,      관광수입
+36178,dart_RevenueFromRenderingOfServicesRental,      선박용선
+36179,dart_RevenueFromRenderingOfServicesTransportation,      해상운송매출
+36180,dart_RevenueFromRenderingOfServicesDistribution,      크루즈여객운송
+36181,dart_RevenueFromSaleOfGoodsFood,      선용품판매
+36184,dart_RevenueFromRenderingOfServicesCommission,      일반매출
+36190,dart_CostOfSalesFromServices,      관광수입매출원가
+36193,dart_CostOfSalesFromRenderingOfServicesRental,      선박용선매출원가
+36194,dart_CostOfSalesFromRenderingOfServicesDistribution,      여객운송매출원
+36195,dart_CostOfSalesFromRenderingOfServicesTransportation,      해상운송매출원가
+36196,dart_CostOfSalesFromRenderingOfServicesCommission,      일반매출원가
+36202,dart_SalariesWages,   직원급여
+36235,dart_GainsFromRedemptionOfBonds,   사채상환및전환이익
+36241,dart_ImpairmentLossesOnAvailableForSaleFinancialAssets,   만기보유증권손상차손
+36242,dart_LossesOnDisposalOfAvailableForSaleFinancialAssets,   매각예정자산손상차손
+36245,dart_LossesOnSaleOfInvestmentAccountedForUsingEquityMethod,   지분법투자주식감액손실
+36304,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      공정가치 평가손익: 파생금융자산/부채
+36309,ifrs-full_EarningsPerShareAbstract,주당순이익(손실) (단위: 원)
+36310,ifrs-full_BasicEarningsLossPerShare,   기본 주당순이익(손실)
+36311,ifrs-full_DilutedEarningsLossPerShare,   희석 주당순이익(손실)
+36350,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익-공정가치 금융자산의 평가손익
+36411,dart_MiscellaneousExpenses,   기타의 판매비와관리비
+36415,dart_AllowanceForOtherDoubtfulAccounts,   기타의 대손상각비(환입)
+36423,ifrs-full_ComprehensiveIncome,III. 당기총포괄손익
+36424,ifrs-full_EarningsPerShareAbstract,Ⅵ. 주당이익(손실)
+36457,ifrs-full_BasicEarningsLossPerShare,   기본주당반기순이익(손실)
+36480,ifrs-full_OtherComprehensiveIncome,법인세비용 차감후 기타포괄손실
+36547,dart_MiscellaneousExpenses,   판매비및물류비
+36553,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업 및 관계기업투자손익
+36587,dart_TotalSellingGeneralAdministrativeExpenses,관리비및판매비
+36615,dart_TotalSellingGeneralAdministrativeExpenses,판매및물류비
+36630,ifrs-full_EarningsPerShareAbstract,분기주당손익
+36638,dart_MiscellaneousExpenses,   기타일반관리비
+36717,ifrs-full_EarningsPerShareAbstract,기본 및 희석주당이익
+36910,dart_FinancialGuaranteeFinancialExpense,   보증료(금융원가)
+36929,dart_DividendIncomeNonOperating,   수입배당금
+36977,ifrs-full_RevenueFromRoyalties,   상표권수익
+37028,ifrs-full_EarningsPerShareAbstract,계속영업 주당이익
+37335,ifrs-full_BasicEarningsLossPerShare,   기본 및 희석주당순손익
+37514,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 측정 금융상품 평가손익
+37654,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업 기본주당순이익
+37655,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업 기본주당순이익(손실)
+37657,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업 희석주당순이익
+37658,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      중단영업 희석주당순이익(손실)
+37689,ifrs-full_OtherComprehensiveIncome,법인세차감 후 기타포괄이익
+37733,dart_CostOfSalesFromServices,   위탁운용수수료
+37745,dart_AmortisationExpense,   대여금대손상각비
+37862,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업의 손익에 대한 지분
+37872,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익
+37995,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익_공정가치측정금융자산평가손익
+38033,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익 공정가치측정 금융자산평가손익
+38034,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여채무의 재측정손익
+38037,ifrs-full_RevenueFromSaleOfGoods,   재화의 판매로 인한 수익
+38038,dart_RevenueGovernmentGrant,   정부보조금수익(매출액)
+38041,dart_CostOfSalesFromSaleOfGoods,   재화의 판매로 인한 수익에 대한 매출원가
+38042,dart_OtherCostOfSales,   기타수익에 대한 매출원가
+38066,dart_ClothingExpenses,   피복비
+38072,dart_RevenueContributionToConstructionNonOperating,   공사부담금수익(영업외)
+38073,dart_GainsOnReimbursementOrCompensation,   보상및배상금수익
+38078,dart_CompensationForDamage,   보상및배상금비용
+38097,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"관계기업, 공동기업 및 종속기업 관련 이익(손실)"
+38114,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본주당손익
+38116,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업희석주당손익
+38118,dart_TotalSellingGeneralAdministrativeExpenses,일반영업비용
+38136,dart_RevenueFromServices,   항공운수보조수익
+38138,ifrs-full_OtherRevenue,   기타사업수입
+38141,dart_CostOfSalesFromServices,   항공운수보조원가
+38143,dart_OtherCostOfSales,   기타사업원가
+38158,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후족적으로 당기손익으로 재분류될 수 있는 항목
+38163,ifrs-full_RevenueFromRenderingOfServices,   신용평가
+38215,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가지측정 금융자산 평가손익
+38216,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 손익으로 재분류되는 항목
+38302,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,지분법투자이익(손실)
+38311,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      (부의)지분법자본변동
+38333,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가이익(손실)
+38393,ifrs-full_RevenueFromRenderingOfServices,   용역의 제공으로 인한 매출액
+38394,ifrs-full_RevenueFromConstructionContracts,   건설계약으로 인한 매출액
+38398,dart_CostOfSalesFromRenderingOfServices,   용역의 제공으로 인한 매출원가
+38399,dart_CostOfSalesFromConstructionContracts,   건설계약으로 인한 매출원가
+38462,ifrs-full_RevenueFromRenderingOfServices,   용역의 제공
+38483,ifrs-full_BasicEarningsLossPerShare,   기본주당계속영업이익(손실)
+38484,ifrs-full_DilutedEarningsLossPerShare,   희석주당계속영업이익(손실)
+38532,ifrs-full_RevenueFromSaleOfGoods,   인증사업수익
+38533,ifrs-full_RevenueFromRenderingOfServices,   솔루션사업수익
+38534,ifrs-full_OtherRevenue,   기타부대사업수익
+38611,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 세후기타포괄손익 :
+38613,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는 세후기타포괄손익 :
+38662,ifrs-full_OtherComprehensiveIncome,기타포괄손익(법인세차감후금액)
+38723,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      순확정급여제도의 재측정손익(세후기타포괄손익)
+38832,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      공정가치측정지분상품의 세후기타포괄손익
+38838,ifrs-full_Revenue,수익(매출과지분법손익)
+38839,ifrs-full_CostOfSales,매출원가(영업비용)
+38995,dart_OperatingIncomeLoss,Ⅳ. 영업이익
+39000,ifrs-full_ProfitLossBeforeTax,Ⅴ. 법인세비용차감전순이익
+39003,ifrs-full_OtherComprehensiveIncome,Ⅶ. 기타포괄손익
+39007,ifrs-full_ComprehensiveIncome,Ⅷ. 총포괄손익
+39008,ifrs-full_EarningsPerShareAbstract,Ⅸ. 주당손익
+39019,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,투자수익(관계기업지분법이익)
+39096,ifrs-full_Revenue,매출 및 지분법손익
+39097,ifrs-full_RevenueFromSaleOfGoods,   재화의 판매
+39100,ifrs-full_OtherRevenue,   지분법손익
+39116,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 분기손익으로 재분류될수 있는 항목
+39117,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익에 대한 지분 해당액
+39119,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 분기손익으로 재분류될수 없는 항목
+39121,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 등 순확정급여부채의 재측정요소 등
+39167,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업투자주식손상차손
+39194,ifrs-full_FinanceCosts,금용비용
+39200,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,   후속기간에당기손익으로재분류되지않는항목
+39202,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossBeforeTax,   후속기간에당기손익으로재분류되는항목
+39214,dart_OperatingExpenses,비용
+39216,dart_DepreciationExpense,   감가상각비와 기타상각비
+39218,dart_RepairExpenses,   수선비와 소모품비
+39219,dart_TravelExpenses,   여비교통 및 출장비
+39317,ifrs-full_EarningsPerShareAbstract,지배기업지분에 대한 기본주당손익
+39331,ifrs-full_OtherComprehensiveIncome,당기 세후 기타포괄손익:
+39339,ifrs-full_DilutedEarningsLossPerShare,   계속영업 희석주당순이익
+39350,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업 당기순손익에 대한 지분
+39373,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류될 수 있는 항목(세후)
+39374,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치금융자산 평가손익(세후)
+39436,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업투자 관련손익
+39445,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법이익잉여금
+39467,ifrs-full_ProfitLossFromContinuingOperations,계속영업 당기순이익(손실)
+39468,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업 당기순이익(손실)
+39684,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류 되는 포괄손익
+39685,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장 외화환산 차이
+39750,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피의 파생상품평가손익
+39788,ifrs-full_BasicEarningsLossPerShare,   기본주당기순이익
+39805,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄공정가치측정금융자산 평가손익
+39927,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,"관계기업, 공동기업 관련 손익"
+40003,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로 재분류 되지 않는 항목(세후기타포괄손익)
+40005,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로 재분류될 수 있는 항목(세후기타포괄손익)
+40008,ifrs-full_GrossProfit,매출총이익(영업수익)
+40023,ifrs-full_BasicEarningsLossPerShare,   기본주당보통주이익(손실)
+40024,ifrs-full_DilutedEarningsLossPerShare,   기본주당우선주순이익(손실)
+40045,dart_FreightExpenses,   운반보관료
+40053,dart_GainsOnDisposalsOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,   매각예정비유동자산처분이익
+40055,dart_ReversalsOfAllowanceForOtherDoubtfulAccounts,   대손충당금환입
+40058,dart_LossesOnSaleOfInvestmentsInSubsidiaries,   종속기업투자처분손실
+40106,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업에대한지분법손익
+40214,ifrs-full_BasicEarningsLossPerShare,   보통주당순이익
+40231,ifrs-full_ProfitLossFromContinuingOperations,계속영업손익
+40335,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류 되지 않는 항목
+40384,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      처분손익 법인세효과
+40385,ifrs-full_ComprehensiveIncome,X. 당기총포괄손익
+40386,ifrs-full_EarningsPerShareAbstract,XI. 주당이익
+40429,ifrs-full_BasicEarningsLossPerShare,   기본및희석주당순이익(손실)
+40443,ifrs-full_ProfitLoss,분기순이익(순손실)
+40445,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수있는 항목
+40449,ifrs-full_BasicEarningsLossPerShare,   기본주당순이익(순손실)
+40450,ifrs-full_DilutedEarningsLossPerShare,   희석주당순이익(순손실)
+40470,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      토지재평가이익
+40513,ifrs-full_OtherComprehensiveIncome,법인세차감후 기타포괄이익(손실)
+40521,ifrs-full_BasicEarningsLossPerShare,   보통주 기본주당순이익
+40522,ifrs-full_DilutedEarningsLossPerShare,   구형우선주 기본주당순이익
+40536,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되는 세후기타포괄손익
+40554,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류될 수 없는 항목(세후기타포괄손익)
+40626,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 측정 금융자산 평가이익(손실)
+40629,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      위험회피목적파생상품평가이익(손실)
+40688,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      보통주 기본주당이익(손실)
+40702,ifrs-full_ProfitLossBeforeTax,법인세차감전순이익(순손실)
+40765,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 측정 지분상품 처분손익
+40782,ifrs-full_OtherComprehensiveIncome,기타포괄손익(법인세차감후)
+40841,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      파생상품평가이익(손실)
+40850,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 금융자산 관련 손익
+40906,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      종속기업및관계기업 이익잉여금중 지분해당액(세후기타포괄손익)
+40947,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄-공정가치 금융자산평가손익
+40994,dart_OperatingIncomeLoss,정상영업손익
+41041,dart_RevenueFromRenderingOfServicesMaintenance,      정비매출
+41051,dart_CostOfSalesFromRenderingOfServicesMaintenance,      정비매출원가
+41076,dart_ReturnedGoodsExpenses,   반품비용
+41078,dart_ConferenceExpenses,   교육회의비
+41085,dart_ImpairmentLossesOnAssociates,   종속기업투자주식손상차손
+41116,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      계속영업과 중단영업기본주당이익(손실)
+41138,ifrs-full_ComprehensiveIncome,III. 분기총포괄이익
+41230,ifrs-full_EarningsPerShareAbstract,지배기업소유주지분주당순이익
+41266,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되는 지분법 적용대상 관계기업과 공동기업의 세후기타포괄손익에 대한 지분
+41310,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업 및 공동기업 투자이익(손실)
+41354,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,종속기업및관계기업지분손익
+41359,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익재분류되지않는포괄손익
+41360,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      포괄손익인식자산공정가치변동
+41361,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      자기신용위험공정가치변동
+41362,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도재측정손익
+41363,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익재분류되는포괄손익
+41364,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산포괄손익
+41641,ifrs-full_FinanceIncome,금융수익- 이자수익
+41744,ifrs-full_FinanceIncome,금융이익-유효이자율법에 따른 이자수익
+41745,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,금융이익-기타
+41751,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되지 않는  항목
+41816,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   (1) 후속적으로 당기손익으로 재분류되는 항목
+24,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄손익의 귀속 [abstract]
+46,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사소유주지분
+105,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossBeforeTax,      지분법 적용대상 관계기업과 공동기업의 기타포괄손익에 대한 지분(세전기타포괄손익)
+116,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"   총 포괄손익, 지배기업의 소유주에게 귀속되는 지분"
+117,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"   총 포괄손익, 비지배지분"
+247,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      공동지배기업 및 관계기업 기타포괄손익 등에 대한 지분
+255,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주의 소유주
+319,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기총포괄이익의 귀속
+325,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업기본주당이익
+327,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업희석주당이익
+328,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      중단영업희석주당이익
+333,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 자본변동
+342,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄손익의 귀속
+343,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주지분(손실)
+432,dart_RevenueFromHotelService,   호텔매출액
+445,dart_CostOfRevenueHotelService,   호텔매출원가
+489,ifrs-full_ProfitLossAttributableToAbstract,당기연결순이익(손실)의 귀속
+490,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의소유주지분
+493,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되는 세후기타포괄손익 항목
+496,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기연결총포괄손익의 귀속
+585,ifrs-full_BasicEarningsLossPerShare,   계속사업과 중단사업
+586,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      기본 및 희석 주당순이익(손실)
+587,ifrs-full_DilutedEarningsLossPerShare,   계속사업
+593,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 이익잉여금 변동
+596,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타자본구성요소
+599,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 지분
+626,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기총포괄손익의 귀속
+693,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationBeforeTax,      해외사업환산차이
+699,ifrs-full_ProfitLossAttributableToAbstract,당분기순이익의 귀속
+702,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당분기총포괄이익의 귀속
+728,ifrs-full_ProfitLossAttributableToAbstract,연결당기순이익(손실)의 귀속
+731,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결총포괄손익의 귀속
+803,dart_CostOfSalesFromRoyalties,   로열티수익(매출액)에 대한 매출원가
+857,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationBeforeTax,      해외사업장환산외환차이 세전재분류조정
+923,dart_TotalSellingGeneralAdministrativeExpenses,판매및유통비
+932,ifrs-full_ProfitLoss,당기순이익 및 포괄이익
+933,ifrs-full_ProfitLossAttributableToAbstract,연결당기순이익 및 총포괄이익의 귀속
+934,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유지분
+946,ifrs-full_GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      해외사업장순투자의 위험회피손익(세후기타포괄손익)
+1066,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업및공동기업기타포괄손익에 대한 지분
+1071,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주지분손익
+1110,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익 지분 해당액
+1136,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익 지분해당액
+1137,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      관계기업 순확정부채의 재측정요소 지분해당액
+1140,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장외화환산차이
+1158,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 순확정급여부채의 재측정요소중 지분해당액
+1164,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      재분류될 수 있는 항목과 관련된 법인세
+1270,ifrs-full_ProfitLossAttributableToOwnersOfParent,   계속영업손익
+1272,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분 귀속 당기순이익
+1274,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   계속영업 총포괄손익
+1291,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 순손실
+1292,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분 순이익
+1298,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업지분 포괄손익
+1299,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 포괄손익
+1399,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기총포괄손익의 귀속
+1420,dart_GainsOnValuationOfDerivativeLiabilitiesFinancialIncome,   파생부채평가이익(금융수익)
+1458,ifrs-full_DilutedEarningsLossPerShare,   중단영업주당순이익(손실)
+1473,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주지분 당기순이익(손실)
+1483,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업소유주지분 총포괄손익
+1484,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 총포괄손익
+1502,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주당기순이익(손실)
+1503,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주당기순이익
+1512,ifrs-full_ComprehensiveIncomeAttributableToAbstract,포괄손익의 귀속
+1581,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주 지분
+1670,ifrs-full_ProfitLossAttributableToAbstract,IV. 당기순이익(손실)의 귀속
+1673,ifrs-full_ComprehensiveIncomeAttributableToAbstract,V. 총포괄손익의 귀속
+1758,ifrs-full_ProfitLossAttributableToAbstract,당기순손익의 귀속:
+1761,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄손익의 귀속:
+1765,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   지배기업소유주 기본 주당이익
+1877,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      공정가치 지분상품평가손익
+2031,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주 지분순이익
+2034,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배지주 소유주지분
+2035,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지재지분
+2158,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산외환차이
+2166,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄이익의 귀속
+2214,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"   총 포괄손익, 지배기업 소유주지분"
+2266,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기총포괄이익(손실)의귀속
+2273,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 재측정요소에 대한 지분
+2276,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 및 공동기업의 기타포괄손익(재측정요소 제외)에 대한 지분
+2290,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      공동기업의 기타포괄손익에 대한 지분
+2321,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 순확정급여부채의 재측정요소에 대한 지분
+2326,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      공동기업 및 관계기업 기타포괄손익에 대한 지분
+2390,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"   포괄손익, 지배기업의 소유주에게 귀속되는 지분"
+2391,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"   포괄손익, 비지배지분"
+2522,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주
+2541,ifrs-full_ProfitLossFromContinuingOperations,계속영업순이익(손실)
+2673,ifrs-full_RevenueFromRenderingOfServices,   용역의 제공으로 인한 수익
+2693,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 금융자산 평가손익(세후)
+2695,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법자본변동(세후)
+2711,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업및공동기업투자자본변동
+2714,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄손실의 귀속
+2870,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      지분증권처분손익
+2978,ifrs-full_ProfitLossBeforeTax,계속사업법인세비용차감전순이익
+2984,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 될 수 없는 항목
+2994,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기총포괄이익의 귀속
+2999,ifrs-full_BasicEarningsLossPerShare,   기본 주당순이익
+3000,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속사업
+3001,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단사업
+3002,ifrs-full_DilutedEarningsLossPerShare,   희석 주당순이익
+3063,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법이익이영금의 변동
+3090,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주귀속순이익
+3091,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분귀속순이익
+3184,ifrs-full_ProfitLossAttributableToAbstract,당기순이익의 귀속:
+3191,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄손익의 귀속:
+3250,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산이익
+3332,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄이익(손실)의 귀속
+3383,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로재분류되는 항목
+3384,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      외환차이
+3386,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄손익의귀속
+3469,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 확정급여제도의 재측정요소
+3536,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결당기총포괄이익의 귀속
+3594,ifrs-full_GainsLossesOnChangeInValueOfTimeValueOfOptionsNetOfTax,      위험회피회계-이자율스왑 평가손익
+3595,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      위험회피회계-리스부채 평가손실
+3609,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   우선주주당순이익
+3735,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피 파생금융상품평가손익
+3736,ifrs-full_ComprehensiveIncome,연결총포괄이익(손실)
+3790,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익의 변동
+3794,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기연결총 포괄손익의 귀속
+3889,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업주주지분
+4185,dart_InterestIncomeFinanceIncome,   금융수익_유효이자율법에 따른 이자수익
+4384,dart_ExpensesOfProvisionsForRestoration,   품질보증충당부채전입액
+4400,dart_CompensationForDamage,   손해배상금
+4405,dart_GainsOnValuationOfHeldForTradingFinancialAssetsFinancialIncome,   단기매매금융자산평가이익(금융수익)
+4451,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄이익의 귀속:
+4523,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주지분당기순이익
+4524,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주지분당기순이익
+4529,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 및 공동기업의 기타포괄손익에 대한 지분해당액
+4535,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주지분총포괄이익
+4536,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배주주지분총포괄이익
+4623,dart_MiscellaneousIncome,   그밖의 기타수익
+4627,dart_MiscellaneousLosses,   그밖의 기타비용
+4635,dart_GainsOnDisposalsOfHeldForTradingFinancialAssetsFinancialIncome,   금융자산처분이익
+4656,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업지분총포괄이익
+4657,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분총포괄손익
+4735,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄이익(손실)의 귀속
+4789,ifrs-full_BasicEarningsLossPerShare,   지배주주지분기본주당이익
+5112,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossBeforeTax,      관계기업기타포괄
+5282,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외환산손익
+5292,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업 기본 및 희석주당이익(손실)
+5293,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업 기본 및 희석주당이익(손실)
+5486,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분(손실)
+5492,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산손익(세후기타포괄손익)
+5595,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익 중 지분해당액
+5853,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되는 항목:
+6212,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 재측정요소
+6241,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결총포괄이익의 귀속
+6266,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정 지분상품 처분손익
+6420,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"   포괄손익, 지배기업의 소유주"
+6491,ifrs-full_ProfitLossFromContinuingOperations,계속영업 당기순이익
+6492,ifrs-full_ProfitLossFromDiscontinuedOperations,중단사업손실
+6696,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기순익으로 재분류되는 포괄손익
+6704,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기총포괄이익(손실)의 귀속
+6790,ifrs-full_ProfitLossAttributableToAbstract,당기순손실의 귀속
+6796,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄손실의 귀속
+6892,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 지분상품 처분손익
+6896,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      공동기업및관계기업평가손익
+6923,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사소유지분
+6925,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄이의 귀속
+7121,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배지분순이익
+7243,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에 귀속될 당기순이익(손실)
+7244,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속될 당기순이익(손실)
+7247,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에 귀속될 당기총포괄순이익(손실)
+7248,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속될 당기총포괄순이익(손실)
+7268,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익 등에 대한 지분
+7311,ifrs-full_ProfitLossAttributableToAbstract,분기연결순이익(손실)의 귀속
+7358,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업및공동기업의 기타포괄손익 지분
+7387,ifrs-full_EarningsPerShareAbstract,지배기업 소유지분에 대한 주당순이익
+7465,ifrs-full_ProfitLossAttributableToAbstract,분기순손익(손실)의 귀속
+7565,ifrs-full_OtherRevenue,   기타영업수익
+7659,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주 소유주지분
+7663,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업확정급여제도의 재측정요소
+7755,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산외환손익
+7915,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업순이익 지분
+7916,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업순이익 지분
+7918,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업포괄순이익 지분
+7919,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배기업포괄순이익 지분
+7953,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 자본의 변동에 대한 지분
+8041,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피평가손익
+8211,ifrs-full_ProfitLossFromContinuingOperations,계속영업당기순손익
+8212,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업당기순손익
+8214,ifrs-full_ProfitLossAttributableToAbstract,당기순손익의 귀속
+8237,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본 및 희석주당이익(손실)
+8238,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업기본및 희석주당이익(손실)
+8355,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업 소유주 지분
+8384,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에 귀속될 당기순이익
+8387,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업의 소유주에 귀속될 당기순이익
+8655,ifrs-full_RevenueFromInterest,   투자수익
+8660,dart_CostOfSalesFromInterest,   투자비용
+8674,dart_OtherGains,관계기업주식평가손익
+8706,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주 귀속
+8769,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업투자 기타포괄손익 지분
+8771,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기 총포괄이익의 귀속
+8930,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업외환산차이
+8933,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주 귀속 총포괄손익
+8934,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 귀속 총포괄손익
+9036,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산
+9042,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배지분귀속
+9043,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분귀속
+9299,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   해외사업환산손익
+9417,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   기본주당계속영업손실
+9418,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   희석주당계속영업손실
+9446,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는계속영업이익
+9447,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   지배기업의 소유주에게 귀속되는중단영업이익
+9451,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 총 포괄손익
+9452,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분의 소유주에게 귀속되는 총 포괄손익
+9648,ifrs-full_ProfitLossFromContinuingOperations,계속사업분기순이익(손실)
+9665,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속사업 기본주당이익(손실)
+9666,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단사업 기본주당이익(손실)
+9755,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,      공정가치측정금융자산평가(기타포괄)
+10050,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기총 포괄손익의 귀속
+10098,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로재분류되는항목
+10102,ifrs-full_ComprehensiveIncomeAttributableToAbstract,세후 총포괄이익(손실)의 귀속
+10269,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 분류되는 항목
+10344,ifrs-full_RevenueFromSaleOfGoods,   제품 및 상품
+10345,dart_RevenueFromRenderingOfServicesTransportation,   운송 및 배송
+10346,ifrs-full_RevenueFromRenderingOfServices,   용역 및 브랜드사용료
+10347,ifrs-full_RevenueFromConstructionContracts,   건설형계약수익
+10350,dart_CostOfSalesFromSaleOfGoods,   제품 및 상품원가
+10351,dart_CostOfSalesFromRenderingOfServicesTransportation,   운송 및 배송원가
+10353,dart_CostOfSalesFromConstructionContracts,   건설형계약원가
+10473,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄이익의 귀속
+10539,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기포괄손익의 귀속
+10671,ifrs-full_ProfitLossAttributableToAbstract,XIII. 당기순이익(손실)의 귀속
+10674,ifrs-full_ComprehensiveIncomeAttributableToAbstract,XIV. 총 포괄손익의 귀속
+10797,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되지 않는항목(세후기타포괄손익)
+10799,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익에 대한 지분변동
+10800,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류되는 항목:
+10835,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기 총 포괄이익(손실)의 귀속
+10898,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄이익
+10899,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에 귀속되는 지분
+10985,dart_LossesOnDisposalsOfFairValueFinancialAssetFinancialExpense,   당기손익공정가치금융자산처분손실
+11168,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기총포괄이익(손실)의 귀속
+11343,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산차이
+11455,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기 총 포괄손익의 귀속
+11460,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      지배기업소유주의 기본주당순이익
+11579,ifrs-full_ProfitLossAttributableToAbstract,연결당기순이익의 귀속
+11582,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결당기총포괄이익의귀속
+11717,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의소유주에게귀속되는당기순이익(손실)
+11718,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에귀속되는당기순이익(손실)
+11720,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"   총포괄손익,지배기업의소유주에게귀속되는지분"
+11721,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,"   총포괄손익,비지배지분"
+11926,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      공정가치측정자산평가손익(세후기타포괄손익)
+12212,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 순자산변동에 대한 지분
+12295,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      해외사업상환산손익
+12421,ifrs-full_GainsLossesOnNetMonetaryPosition,기타의수취채권손상(차손)환입
+12803,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업분기순이익(손실)
+12809,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossBeforeTax,      관계기업투자의 기타포괄손익에 대한 지분
+12853,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기포괄이익의 귀속
+12908,ifrs-full_OtherComprehensiveIncome,분기 기타포괄손익
+12958,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업 보통주 기본주당이익
+12960,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   계속영업 보통주 희석주당이익
+12962,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업 보통주 기본주당이익
+12964,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,   중단영업 보통주 희석주당이익
+12986,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 순확정급여부채의 재측정요소 중 지분해당액
+13039,ifrs-full_DilutedEarningsLossPerShare,   기본및희석주당중단영업이익
+13060,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익
+13079,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업주주지분당기순이익(손실)
+13080,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분당기순이익(손실)
+13090,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업주주지분총포괄이익(손실)
+13091,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분총포괄이익(손실)
+13169,ifrs-full_ProfitLossFromContinuingOperations,계속영업연결당기순이익(손실)
+13266,ifrs-full_ComprehensiveIncomeAttributableToAbstract,XII. 총 포괄손익의 귀속
+13626,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의소유지분
+13698,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결당기총포괄손익의 귀속
+14145,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되는 지분법 적용대상 관계기업의 세후기타포괄손익에 대한 지분
+14155,ifrs-full_BasicEarningsLossPerShare,   기본주및희석주당순이익
+14156,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본주및희석주당순이익
+14402,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주지분 귀속
+14411,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주지분의 귀속
+14464,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   분기손익으로 재분류될 수 있는 항목(세후기타포괄손익)
+14466,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      관계기업기타포괄손익에 대한 지분
+14472,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업소유주의 지분
+14539,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄-공정가치 측정 금융자산 평가손익
+14613,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 적용대상 관계기업의 기타포괄손익에 대한 지분(세후기타포괄손익)
+14775,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업투자주식평가손익
+14828,dart_OtherExpenseOfProvisions,   임대비용
+15053,dart_ReversalsOfPropertyPlantAndEquipment,   선박손상차손환입
+15056,dart_WritedownsOfPropertyPlantAndEquipment,   선박손상차손
+15251,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주 귀속
+15435,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 포괄이익(손실)
+15436,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 포괄이익(손실)
+15481,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   분기손익으로 재분류될 수 있는 항목
+15487,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기 총 포괄손익의 귀속
+15568,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주지분총포괄순이익
+15569,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분총포괄순이익
+15630,dart_RevenueFromRenderingOfServicesRental,   창고수익
+15631,dart_RevenueFromSaleOfGoodsMerchandise,   상품수익
+15635,dart_CostOfSalesFromRenderingOfServicesRental,   창고원가
+15636,dart_CostOfSalesFromSaleOfGoodsMerchandises,   상품원가
+16044,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배 주주 지분
+16142,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정금융자산평가손실
+16318,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      기타포괄손익-공정가치측정 기분상품
+16467,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산차
+16471,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업
+16588,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업주주지분순이익
+16589,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주지분순손익
+17040,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기총괄손익의 귀속
+17158,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 지분법평가
+17161,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결분기총포괄손익의 귀속
+17188,ifrs-full_ProfitLossAttributableToAbstract,계속영업이익의 귀속
+17299,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치 지분상품 평가 및 처분손익
+17302,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외산업환산손익
+17364,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분순손익
+17468,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산누계
+17471,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주지분 순이익
+17543,ifrs-full_ProfitLossAttributableToAbstract,순이익의 귀속
+17757,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산이익(손실)
+18070,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 분류될 수 있는 항목
+18071,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      외화환산외환차이
+18237,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속될 당기순이익
+18723,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationNetOfTax,      당기손익으로 재분류되는 항목의 법인세
+18919,dart_ExpenseOfLegalProceedingsProvision,   법적소송충당부채전입액
+19186,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배지분순손실
+19187,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분순손실
+19191,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업투자자본변동
+19196,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배지분포괄손익
+19197,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분포괄손익
+19240,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 당기순손익
+19241,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 당기순손익
+19251,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배회사의 소유주 지분
+19344,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익- 공정가치 측정 금융자산 평가이익
+19476,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 분기순이익(손실)
+19478,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 분기총포괄순이익(손실)
+19479,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 분기총포괄순이익(손실)
+19507,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기순이익으로 재분류될 수 는 항목
+19601,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업  소유주지분
+19603,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄이익 귀속
+19604,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업 소유주지분.
+19691,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      토지재평가손익(세후기타포괄손익)
+19911,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산손익의 변동
+19924,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업 기본 및 희석 주당이익(손실)
+19925,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업 기본 및 희석 주당이익(손실)
+20371,ifrs-full_ProfitLossAttributableToAbstract,연결분기손익의 귀속
+20373,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배주주
+20587,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업
+20588,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업
+20637,ifrs-full_ProfitLossFromDiscontinuedOperations,법인세비용차감후중단영업이익(손실)
+20647,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업지분포괄손익
+20762,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업기본및희석주당이익(손실)
+20763,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업기본및희석주당이익(손실)
+20851,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외투자법인외화환산
+20893,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   계속영업기본 및 희석주당이익(손실)
+20894,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,   중단영업기본 및 희석주당이익(손실)
+21125,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 관계기업 기타포괄손익(세후기타포괄손익)
+21130,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주지분총포괄손익
+21178,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치금융자산평가손실
+21179,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로당기손익으로재분류될수있는항목
+21374,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익 공정가치측정
+21609,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄손익(손실)의 귀속
+21883,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      공정가치측정 금융자산 평가손익
+21886,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주 지분
+22230,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비재비주주지분순이익(손실)
+22236,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주지분포괄이익(손실)
+22237,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배주주지분포괄이익(손실)
+22461,ifrs-full_ProfitLoss,연결당분기순이익(손실)
+22469,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결총포괄이익(손실)의 귀속
+22497,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      (부의)지분법 자본변동
+22647,ifrs-full_GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      관계기업기타포괄손익지분
+22744,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      보험수리적손익(세후기타포괄손익)
+23021,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,관계기업및공동기업의 당기순손익에 대한 지분 증감
+23057,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는항목
+23064,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 총포괄손익
+23065,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 총포괄손익
+23405,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"   총 포괄손익, 지배주주지분"
+23589,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결당기 총 포괄손익의 귀속
+23733,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의지분
+24048,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유지분
+24121,ifrs-full_ProfitLoss,Ⅷ. 당기순이익(손실)
+24570,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에게 귀속되는포괄이익(손실)
+24629,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업소유지분 총포괄손익
+24630,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지재분 총포괄손익
+24679,dart_TotalSellingGeneralAdministrativeExpenses,판매 및 유통비
+24690,ifrs-full_ProfitLoss,연결포괄이익
+24790,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장외환차이
+24806,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업잉여금변동
+24887,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업지분당기순이익(손실)
+24888,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업지분당기순이익(손실)
+24891,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업의환산손익
+24897,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배기업지분포괄손익
+25961,ifrs-full_RevenueFromRenderingOfServices,   광고대행수익
+26156,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산손
+26210,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배지분순이익(손실)
+26220,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배지분총포괄이익(손실)
+26316,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배분
+26382,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업에 대한 지분변동
+26428,ifrs-full_ProfitLossAttributableToAbstract,당분기순이익 귀속
+26431,ifrs-full_ComprehensiveIncomeAttributableToAbstract,포괄손익 귀속
+26661,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   보통주 기본주및희석주당계속영업손익
+26757,ifrs-full_GainsLossesOnCashFlowHedgesBeforeTax,      현금흐름위험회피손익(세전기타포괄손익)
+27318,ifrs-full_RevenueFromInterest,   금융매출
+27338,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정금융자산
+27352,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      기본주당이익(손실)
+27353,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      희석주당이익(손실)
+27403,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산손익(세후기타포괄손익)
+27408,ifrs-full_ComprehensiveIncomeAttributableToAbstract,포괄이익의 귀속
+27480,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주지분순이익
+27511,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      공동지배기업평가손익
+27532,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주지분 당기순이익(손실)
+27550,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주지분 총포괄이익(손실)
+27551,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배주주지분 총포괄이익(손실)
+27572,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주지분포괄손익
+27573,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배주주지분포괄손익
+27592,ifrs-full_ProfitLossAttributableToAbstract,지배기업의 소유주 귀속 총포괄이익
+27773,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결당기순이익 및 총포괄손익의 귀속
+27989,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      공동기업 기타포괄손익 중 지분해당액
+28019,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 및 공동기업 기타포괄손익 중 지분해당액
+28238,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속기간에 당기손익으로 재분류될 수 있는 포괄손익
+28440,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업기타포괄손익
+28580,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      보험수리이익(손실)
+28609,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      외화환산외환차이의 세전기타포괄손익
+29020,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속
+29158,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업의 기타포괄손익 변동
+29161,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에 귀속될 총포괄이익(손실)
+29162,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속될 총포괄손실
+29281,dart_FreightExpenses,   포장운반비
+29312,dart_ReversalsOfPropertyPlantAndEquipment,   유형자산손상차손환입
+29317,dart_AmortizationOnNegativeGoodwill,   염가매수차익
+29320,dart_ReversalsOfLegalProceedingsProvision,   소송충당부채환입
+29334,dart_ImpairmentLossesOnAssociates,   관계기업주식등처분손실
+29344,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치측정금융자산 평가이익
+29435,dart_GainsOnDisposalsOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치측정 금융자산 처분이익
+29436,dart_GainsOnValuationOfDerivativeFinancialInstrumentsFinancialIncome,   파생상품정산이익
+29445,ifrs-full_ProfitLossAttributableToAbstract,분기손익의 귀속:
+29481,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익법인세효과
+29603,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익 지분
+29652,ifrs-full_ProfitLossAttributableToAbstract,분기연결순이익
+29657,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익 변동에 대한 지분
+29660,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 이익잉여금 변동에 대한 지분
+29801,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 당기총포괄이익(손실)
+29802,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 당기총포괄이익(손실)
+30003,ifrs-full_ProfitLossAttributableToOwnersOfParent,지배기업의 소유주에게 귀속되는 당기순이익(손실)
+30140,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업소유지분
+30146,ifrs-full_GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      해외사업순투자
+30270,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산차손익
+30292,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주지분순이익(손실)
+30301,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주지분포괄이익(손실)
+30302,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분포괄이익(손실)
+30381,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주지분 순이익(손실)
+30384,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업소유주지분 포괄이익
+30385,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 포괄이익(손실)
+30477,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배기업의 소유주에게 귀속되는 지분
+30486,ifrs-full_GainsLossesOnNetMonetaryPosition,공동기업 및 관계기업투자이익
+30503,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배회사지분
+30559,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결총포괄이익 귀속
+30564,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업기본및희석주당순이익
+30676,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업및공동기업의 자본변동
+30781,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 이익잉여금의 변동
+30821,ifrs-full_RevenueFromSaleOfGoods,   비금융업
+30822,dart_RevenueFromRenderingOfServicesFinanceBusiness,   금융업
+30825,dart_CostOfSalesFromRenderingOfServicesFinanceBusiness,   금융업매출원가
+31145,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄 순이익(손실)
+31263,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 당기순이익
+31264,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업 당기순이익
+31268,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업 총 포괄손익
+31269,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배기업 총 포괄손익
+31343,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주주지분
+31582,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기 총포괄손익의 귀속
+31625,dart_LossesOnSaleOfInvestmentAccountedForUsingEquityMethod,   지분법투자주식처분손실
+31717,dart_TotalSellingGeneralAdministrativeExpenses,판매비와유통비
+31757,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주지분순이익(손실)
+31784,ifrs-full_ProfitLossFromDiscontinuedOperations,세후중단영업순이익(손실)
+31818,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 계속사업순이익(손실)
+31819,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 계속사업순이익(손실)
+31848,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업지분
+32100,ifrs-full_GainsLossesArisingFromDifferenceBetweenPreviousCarryingAmountAndFairValueOfFinancialAssetsReclassifiedAsMeasuredAtFairValue,관계기업 및 공동기업투자손익
+32111,ifrs-full_ComprehensiveIncome,IX. 총포괄손익
+32446,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기포괄손익의 귀속
+32478,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 귀속 총포괄이익
+32585,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업소유주지분 총포괄이익(손실)
+32586,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 총포괄이익(손실)
+32783,ifrs-full_ComprehensiveIncomeAttributableToAbstract,세후 총 포괄이익(손실)의 귀속
+32859,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배주주지분 당기순손익
+32866,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배주주지분 총포괄손익
+32976,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업자본변동 중 당기손익으로 재분류 되지 않는 항목
+33830,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주(계속)
+33834,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 포괄손익
+33880,ifrs-full_ProfitLossAttributableToAbstract,당기순이익귀속
+33881,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유분
+33883,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄이익귀속
+33987,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배지분 당기순이익(손실)
+33998,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배지분 포괄손익
+34041,ifrs-full_ComprehensiveIncomeAttributableToAbstract,세후 총 포괄손익의 귀속
+34094,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업주주지분
+34270,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,공동기업에 대한 투자관련 손익
+34307,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류되는 않는 항목
+34572,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유지분순이익
+34582,ifrs-full_ComprehensiveIncomeAttributableToAbstract,연결분기포괄이익(손실)의 귀속
+34583,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업소유지분순이익(손실)
+35153,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업소유주지분
+35205,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      (1) 해외사업환산손익
+35206,ifrs-full_ComprehensiveIncomeAttributableToAbstract,Ⅸ. 총 포괄손익
+35207,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업 지분
+35440,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 자본
+35441,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 자본
+35727,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주 당기순이익(손실)
+35930,ifrs-full_ChangesInInventoriesOfFinishedGoodsAndWorkInProgress,   재고의변동
+36092,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사소유주지분순이익(손실)
+36155,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기 총포괄손익의 귀속
+36316,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 분기순이익
+36317,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 분기순이익
+36579,ifrs-full_GainsLossesOnChangeInValueOfForeignCurrencyBasisSpreadsNetOfTax,      외화베이시스스프레드 변동 손익(세후기타포괄손익)
+36622,ifrs-full_BasicEarningsLossPerShare,   기본및희주당순이익
+36642,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 적용대상의 자본변동
+36977,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 및 공동기업 순확정급여부채의 재측정요소에 대한 지분
+36982,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 및 공동기업의 기타포괄손익에 대한 지분 해당액
+37194,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정 지분증권 평가손익
+37249,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주지분 총포괄이익
+37250,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분총포괄이익
+37368,ifrs-full_ProfitLossAttributableToAbstract,- 당기순이익(손실)의 귀속
+37369,ifrs-full_ProfitLossAttributableToOwnersOfParent,   1. 지배기업소유주지분
+37370,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   2. 비지배지분
+37377,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeBeforeTax,      2. 해외사업환산손익
+37380,ifrs-full_ComprehensiveIncomeAttributableToAbstract,- 총 포괄손익의 귀속
+37892,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사지분순이익
+37901,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업지분 총포괄손익
+38021,dart_CostOfSalesFromRenderingOfServicesRental,   임대원가
+38038,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법평가
+38177,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주순이익(손실)
+38186,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주포괄이익(손실)
+38187,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 포괄손실
+38291,ifrs-full_ProfitLossAttributableToAbstract,분기순이익의귀속
+38293,ifrs-full_ComprehensiveIncomeAttributableToAbstract,지배기업지분
+38709,ifrs-full_DilutedEarningsLossPerShare,   우선주 기본주당이익(손실)
+38838,ifrs-full_ComprehensiveIncome,연결총포괄손익
+38898,ifrs-full_ProfitLossAttributableToAbstract,당기순이익(손실)귀속
+38900,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총포괄이익(손실)귀속
+38972,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      공동기업의기타포괄손익에대한지분
+38996,ifrs-full_ProfitLossAttributableToAbstract,당기순이익(손실)의 귀속:
+39249,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업당기순이익
+39267,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,   계속영업주당이익
+39268,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,   중단영업주당이익
+39320,ifrs-full_BasicEarningsLossPerShare,   지배기업 소유주지분 기본 및 희석주당이익
+39374,dart_LossesOnDisposalOfHeldForTradingFinancialAssets,   단기매매금융자산처분손실
+39578,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산의 공정가치 변동
+39722,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환선손익
+39807,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배지업 소유주지분
+39939,ifrs-full_ProfitLossAttributableToAbstract,반기순이익의 귀속
+39982,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,상각후원가로 측정하는 금융자산의 제거로부터 발생한 이익
+39983,ifrs-full_LossesArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,상각후원가로 측정하는 금융자산의 제거로부터 발생한 손실
+40008,ifrs-full_ComprehensiveIncomeAttributableToAbstract,세후 총포괄손익의 귀속
+40091,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배지분 귀속 당기순이익
+40098,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배지분 귀속 포괄손익
+40099,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 귀속 포괄손익
+40287,ifrs-full_ProfitLossAttributableToAbstract,X. 당기순이익의 귀속
+40290,ifrs-full_ComprehensiveIncomeAttributableToAbstract,XI. 총포괄손익의 귀속
+40344,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업 환산이익
+40512,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정금융자산평가이익(손실)
+41033,ifrs-full_ProfitLossAttributableToAbstract,Ⅳ. 당기순이익(손실)의 귀속
+41036,ifrs-full_ComprehensiveIncomeAttributableToAbstract,Ⅴ. 총포괄손익의 귀속
+41056,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주지분순이익(손실)
+41108,ifrs-full_BasicEarningsLossPerShare,   연결기본주당손실
+41425,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 당기순이익(손실)-계속
+41465,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업지분순이익
+41475,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업지분총포괄손익
+41522,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치로 측정하는 지분상품의 공정가치 변동
+41658,ifrs-full_OtherRevenue,   관계기업투자주식등 이익
+42139,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사의 소유주
+42259,ifrs-full_EarningsPerShareAbstract,지배기업소유지분에 대한 주당손익
+42319,dart_RevenueFromRenderingOfServicesRental,   용선료수익
+42324,dart_CostOfSalesFromRenderingOfServicesMaintenance,   선박관리비
+42337,dart_OtherGains,영업외이익
+42584,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류 되는  기타포괄손익
+42611,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장 환산외환차이
+42672,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법적용 관계기업의 기타포괄손익에 대한 지분
+42685,dart_CostOfSalesFromRenderingOfServices,   용역의 제공으로 인한 수익에 대한 매출원가
+42686,dart_CostOfSalesFromConstructionContracts,   건설계약으로 인한 수익에 대한 매출원가
+42714,dart_OrderGettingExpenses,   수주비
+42723,dart_OtherExpenseOfProvisions,   기타충당부채의 전입액
+42762,ifrs-full_GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      해외사업장순투자의위험회피
+42764,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업과 공동기업의 기타포괄손익에대한지분
+43090,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      지분법적용대상인 관계기업과 공동기업의 기타포괄손익에 대한 지분
+43094,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피파생상품 평가손익
+43096,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      지분법 적용대상인 관계기업과 공동기업의 기타포괄손익에 대한 지분
+43102,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 포괄손익
+43131,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업소유주분
+43366,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유쥬 지분
+43367,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배기업 소유주 지분
+43374,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배기업 소유주지분
+43563,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 지분법자본변동
+43570,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,"   총 포괄손익, 지배기업의 소유주"
+43653,ifrs-full_ReclassificationAdjustmentsOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      해외사업장순투자의 위험회피손익의 세후재분류조정
+43841,ifrs-full_ProfitLossFromContinuingOperations,계속영업 분기순이익
+43842,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업 분기순손실
+43863,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업 보통주 주당이익
+43864,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,   중단영업 보통주 주당손실
+43947,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업지분포괄이익
+43948,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분포괄이익
+44074,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익_공정가치금융자산평가손익
+44177,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산외환차이(세후)
+44321,ifrs-full_ProfitLossFromDiscontinuedOperations,세후중단영업손익
+44338,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      계속영업기본주당순이익
+44339,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      중단영업기본주당순이익
+44341,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업희석주당순이익
+44342,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      중단영업희석주당순이익
+44553,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계 및 공동기업 기타포괄손익 중 지분해당액
+44680,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업 소유주지분 순이익(손실)
+44683,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업 소유주지분 총 포괄이익(손실)
+44684,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분 총 포괄이익(손실)
+44722,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,관계기업투자
+44727,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주에게 귀속되는 순이익(손실)
+44728,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분에 귀속되는 순이익(손실)
+44752,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배주주지분총포괄손익
+44908,dart_RevenueFromSaleOfGoodsRealEstate,   분양매출액
+44909,dart_RevenueFromRenderingOfServicesRental,   임대매출액
+44910,dart_RevenueFromConstruction,   공사수입
+45118,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업에 대한 지분법자본변동
+45261,ifrs-full_GainsLossesArisingFromDifferenceBetweenPreviousCarryingAmountAndFairValueOfFinancialAssetsReclassifiedAsMeasuredAtFairValue,공동기업지분법손익
+45306,ifrs-full_ComprehensiveIncomeAttributableToAbstract,XIV. 총포괄손익의 귀속
+45407,ifrs-full_ProfitLoss,연결당기순(손)익
+45416,ifrs-full_EarningsPerShareAbstract,지배회사 소유주지분에 대한주당이익
+45541,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업및공동기업자본변동
+45545,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정금융자산의 공정가치 변동
+45547,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업및공동기업확정급여부채의 재측정요소
+45724,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산차이(세후기타포괄손익)
+45801,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 분기손익으로 재분류될 수 있는 항목
+45802,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업및공동기업 기타포괄손익에 대한 지분
+45805,ifrs-full_ProfitLossAttributableToAbstract,분기연결순손익의 귀속
+45808,ifrs-full_ComprehensiveIncomeAttributableToAbstract,분기연결총포괄손익의 귀속
+45811,ifrs-full_EarningsPerShareAbstract,지배기업 소유주 지분에 대한 주당손익
+45912,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치측정금융자산 관련 손익
+45915,ifrs-full_GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      해외사업환산손익 등
+45958,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산손익 변동
+46044,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      관계기업 확정급여부채의 재측정요소
+46047,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계및공동기업자본변동
+46049,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피-평가손익
+46162,dart_RevenueFromRenderingOfServicesCommission,      오파매출
+46298,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배회사지분순손익
+46301,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배회사지분포괄이익
+46363,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업지분포괄순이익(손실)
+46364,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분포괄순이익(손실)
+46447,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업과 공동기업의 기타포괄손익
+46449,ifrs-full_ComprehensiveIncomeAttributableToAbstract,당기총포괄이익의귀속
+46478,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장 외화환산차이
+46508,ifrs-full_ProfitLossAttributableToAbstract,연결당기순이익(손실)
+46699,ifrs-full_EarningsPerShareAbstract,지배기업의 지분에 대한 주당이익
+46929,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치측정금융자산처분이익
+46958,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정지분상품평가이익
+47050,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   (2) 후속적으로 당기손익으로 재분류되지 않는 항목
+47058,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,      기본주당순이익

@@ -1,0 +1,320 @@
+,항목코드,항목명
+1,dart_TotalSellingGeneralAdministrativeExpenses,판매비와관리비
+2,dart_OperatingIncomeLoss,영업이익
+3,dart_OtherGains,기타영업외수익
+4,ifrs-full_FinanceIncome,금융수익
+5,ifrs-full_FinanceCosts,금융비용
+6,ifrs-full_ProfitLossBeforeTax,법인세비용차감전순이익
+7,ifrs-full_IncomeTaxExpenseContinuingOperations,법인세비용(수익)
+8,ifrs-full_ProfitLoss,당기순이익
+9,ifrs-full_EarningsPerShareAbstract,주당순이익
+10,ifrs-full_BasicEarningsLossPerShare,   보통주 주당순이익
+11,ifrs-full_DilutedEarningsLossPerShare,   보통주 희석주당순이익
+12,ifrs-full_Revenue,매출액
+13,ifrs-full_CostOfSales,매출원가
+14,ifrs-full_GrossProfit,매출총이익
+20,dart_OtherLosses,기타비용
+37,ifrs-full_ProfitLossFromContinuingOperations,계속영업이익(손실)
+38,ifrs-full_ProfitLossFromDiscontinuedOperations,중단영업이익(손실)
+72,dart_RevenueFromConstruction,   공사매출
+73,dart_RevenueFromSaleOfGoodsRealEstate,   분양매출
+74,ifrs-full_OtherRevenue,   기타매출
+76,dart_CostOfSalesFromConstruction,   공사매출원가
+77,dart_CostOfSalesFromSaleOfGoodsRealEstate,   분양매출원가
+78,dart_OtherCostOfSales,   기타매출원가
+93,dart_RevenueFromSaleOfGoodsMerchandise,   상품매출액
+94,dart_RevenueFromRenderingOfServicesCommission,   수수료매출
+96,dart_CostOfSalesFromSaleOfGoodsMerchandises,   상품매출원가
+97,dart_CostOfSalesFromRenderingOfServicesCommission,   수수료매출원가
+105,ifrs-full_OtherIncomeExpenseFromSubsidiariesJointlyControlledEntitiesAndAssociates,관계기업및종속기업관련손익
+130,dart_BadDebtExpenses,   대손상각비
+131,dart_MiscellaneousExpenses,   기타
+136,dart_InterestIncomeFinanceIncome,   이자수익
+137,dart_OtherFinancialIncome,   기타
+139,dart_InterestExpenseFinanceExpense,   이자비용
+140,dart_OtherFinancialExpenses,   기타금융비용
+145,ifrs-full_BasicEarningsLossPerShareFromContinuingOperations,   계속영업기본주당이익(손실)
+147,dart_RevenueFromSaleOfGoodsProduct,   제품매출액
+150,dart_CostOfSalesFromSaleOfGoodsProduct,   제품매출원가
+169,ifrs-full_RevenueFromConstructionContracts,   건설계약으로 인한 수익(매출액)
+174,dart_CostOfSalesFromConstructionContracts,   건설계약으로 인한 수익(매출액)에 대한 매출원가
+195,ifrs-full_DilutedEarningsLossPerShareFromContinuingOperations,      계속영업희석주당이익(손실)
+270,ifrs-full_RevenueFromDividends,   배당금수익
+271,ifrs-full_RevenueFromRoyalties,   상표권사용수익
+272,dart_RevenueFromRenderingOfServicesRental,   임대수익
+273,dart_OperatingExpenses,영업비용
+274,dart_PersonalExpense,   인건비
+275,dart_DepreciationExpense,   감가상각비
+323,dart_SalariesWages,   종업권급여
+325,dart_Commissions,   기타영업비용
+330,ifrs-full_LossesArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,기타영업외비용
+338,ifrs-full_BasicEarningsLossPerShareFromDiscontinuedOperations,      계속영업과중단영업 기본주당이익
+398,ifrs-full_DilutedEarningsLossPerShareFromDiscontinuedOperations,      우선주당중단영업손익
+467,dart_RevenueFromServices,   매출액
+469,ifrs-full_EmployeeBenefitsExpense,   종업원급여
+472,dart_NetworkContactSettleExpense,   망접속정산비용
+473,dart_ExclusiveLineUseExpense,   전용회선료및전파사용료
+474,dart_AdvertisingExpenses,   광고선전비
+475,dart_RentalExpenses,   지급임차료
+547,dart_ProvisionForSeveranceIndemnities,   퇴직급여
+548,dart_EmployeeBenefits,   복리후생비
+549,dart_FreightExpenses,   선임과운임
+550,dart_OrdinaryDevelopmentExpense,   기술개발비
+551,dart_TravelExpenses,   여비교통비
+552,dart_CommunicationExpenses,   통신비
+553,dart_VehicleMaintenanceExpenses,   차량유지비
+554,dart_SupplyExpenses,   소모품비
+555,dart_TaxesDues,   제세공과금
+556,dart_UtilityExpenses,   수도광열비
+558,dart_RepairExpenses,   수선비
+559,dart_InsurancePremiums,   보험료
+562,dart_ConferenceExpenses,   회의비
+563,dart_EntertainmentExpenses,   접대비
+564,dart_TrainingExpenses,   도서및교육훈련비
+569,dart_GainsForeignCurrencyTransactions,   외환차익
+570,dart_GainOnForeignExchangeTranslations,   외화환산이익
+571,dart_MiscellaneousIncome,   잡이익
+573,dart_LossesForeignCurrencyTransactions,   외환차손
+574,dart_LossOnForeignExchangeTranslations,   외화환산손실
+575,dart_LossesOnDisposalsOfPropertyPlantAndEquipment,   유형자산처분손실
+576,dart_LossesOnDisposalOfIntangibleAssets,   무형자산처분손실
+577,dart_MiscellaneousLosses,   잡손실
+580,dart_DividendIncome,   배당금수익
+581,dart_GainsOnDisposalsOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치금융자산처분이익
+582,dart_GainsOnValuationOfDerivativeFinancialInstrumentsFinancialIncome,   파생상품평가이익
+586,dart_LossesOnDisposalsOfFairValueFinancialAssetFinancialExpense,   당기손익-공정가치금융자산처분손실
+620,dart_CostOfSalesFromServices,   용역원가
+636,ifrs-full_RevenueFromSaleOfGoods,   재화의 판매로 인한 수익(매출액)
+638,ifrs-full_RevenueFromRenderingOfServices,   용역의 제공으로 인한 수익(매출액)
+639,dart_RevenueFromRenderingOfServicesProcession,      임가공매출
+641,dart_CostOfSalesFromSaleOfGoods,   재화의 판매로 인한 수익(매출액)에 대한 매출원가
+642,dart_CostOfSalesFromRenderingOfServices,   용역의 제공으로 인한 수익(매출액)에 대한 매출원가
+678,dart_LeaseholdAdministrationExpense,   관리비
+963,dart_CostOfSalesFromRenderingOfServicesProcession,   임가공매출원가
+999,dart_ImpairmentLossRecoveryOfAccountsReceivables,   수취채권손상차손
+1012,dart_RevenueFromRenderingOfServicesTransportation,   운송매출
+1015,dart_CostOfSalesFromRenderingOfServicesTransportation,   운송매출원가
+1139,dart_GainsOnForeignCurrencyTransactionsFiancialIncome,   외환차익
+1140,dart_GainsOnForeignExchangeTranslationsFinancialIncome,   외화환산이익
+1142,dart_GainsOnValuationOfFairValueFinancialAssetFinancialIncome,   당기손익-공정가치금융자산평가이익
+1143,dart_GainsFromFinancialGuaranteeFinancialIncome,   금융보증채무환입
+1146,dart_LossesOnForeignCurrencyTransactionsFiancialExpense,   외환차손
+1147,dart_LossesOnForeignExchangeTranslationsFinancialExpense,   외화환산손실
+1148,dart_LossesOnValuationOfFairValueFinancialAssetFinancialExpense,   당기손익-공정가치금융자산평가손실
+1166,dart_GainsOnTransactionOfDerivativeFinancialInstrumentsFinancialIncome,   파생상품거래이익(금융수익)
+1173,dart_LossesOnValuationOfDerivativeFinancialInstrumentsFinancialExpense,   파생상품평가손실(금융원가)
+1225,dart_LossesOnTransactionOfDerivativeFinancialInstrumentsFinancialExpense,   파생상품거래손실(금융원가)
+1523,dart_CostOfSalesFromRenderingOfServicesRental,   임대매출원가
+1657,dart_PublicationExpenses,   도서인쇄비
+1665,dart_AmortisationExpense,   무형자산상각비
+1669,dart_ReversalsOfAllowanceForOtherDoubtfulAccounts,   기타대손충당금환입
+1673,dart_AllowanceForOtherDoubtfulAccounts,   기타의대손상각비
+1676,dart_LossesOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,   지분법손실
+1844,dart_LossesOnSaleOfInvestmentsInSubsidiaries,   종속기업투자주식처분손실
+1845,dart_ImpairmentLossesOnAssociates,   관계기업/공동기업투자손상차손
+1846,dart_ImpairmentLossDeterminedInAccordanceWithIFRS9,   K-IFRS 1109에 따라 결정된 손상차손
+1978,dart_WarrantyExpenses,   하자보수비
+2088,dart_ExportOverallExpense,   수출제비용
+2093,dart_SamplesExpenses,   견본품비
+2097,dart_PackingExpenses,   포장비
+2109,dart_DividendIncomeNonOperating,   배당금수익
+2110,dart_GainsFromCommission,   수입수수료
+2111,dart_LentIncome,   수입임대료
+2112,dart_GainsOnDisposalsOfPropertyPlantAndEquipment,   유형자산처분이익
+2119,dart_Donations,   기부금
+2159,dart_GainsArisingFromDifferenceBetweenPreviousAmortisedCostAndFairValueOfFinancialAssetsReclassifiedOutOfAmortisedCostIntoFairValueThroughProfitOrLossMeasurementCategory,   당기손익공정가치측정 금융자산평가이익
+2162,dart_LossesOnDisposalOfFairValueFinancialAsset,   당기손익인식금융자산처분손실
+3010,dart_EngagementExpenses,   업무추진비
+3014,dart_MembershipExpenses,   협회비
+3024,dart_GainsOnDisposalsOfInvestmentProperty,   투자부동산처분이익
+3026,dart_GainsOnDisposalsOfInventory,   재고자산처분이익
+3028,dart_GainsOnDisposalsOfIntangibleAssets,   무형자산처분이익
+3298,dart_GainsOnValuationOfLongTermFinancialInstruments,   금융수익
+13,ifrs-full_ProfitLossAttributableToAbstract,당기순이익의 귀속
+14,ifrs-full_ProfitLossAttributableToOwnersOfParent,   지배기업의 소유주
+15,ifrs-full_ProfitLossAttributableToNoncontrollingInterests,   비지배지분
+369,ifrs-full_GainsArisingFromDerecognitionOfFinancialAssetsMeasuredAtAmortisedCost,지분법손익
+371,ifrs-full_DifferenceBetweenCarryingAmountOfNoncashAssetsDistributedAndCarryingAmountOfDividendsPayable,기타영업외비용
+647,dart_GainsOnDisposalsOfNoncurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,   매각예정자산처분이익
+653,dart_LossesOnDisposalOfNonCurrentAssetsOrDisposalGroupsClassifiedAsHeldForSale,   매각예정자산처분손실
+871,ifrs-full_GainsLossesArisingFromDifferenceBetweenPreviousCarryingAmountAndFairValueOfFinancialAssetsReclassifiedAsMeasuredAtFairValue,관계기업에 대한 지분법손익
+1313,ifrs-full_GainsLossesOnNetMonetaryPosition,관계기업 투자손익
+2169,dart_WarehouseExpenses,   보관료
+2383,dart_GainsOnDisposalsOfFairValueFinancialAsset,   당기손익인식금융자산처분이익
+2393,dart_ImpairmentLossesOnIntangibleAssets,   무형자산손상차손
+2396,dart_LossesArisingFromDifferenceBetweenPreviousAmortisedCostAndFairValueOfFinancialAssetsReclassifiedOutOfAmortisedCostIntoFairValueThroughProfitOrLossMeasurementCategory,   당기손익공정가치측정 금융자산평가손실
+2963,dart_ExpensesOfProvisionsForRestoration,   복구충당부채전입액
+3307,dart_ProfitsOfAssociatesAndJointVenturesAccountedForUsingEquityMethod,   지분법이익
+3317,dart_GainsOnValuationOfForeignExchangeForwardFinancialIncome,   통화선도평가이익(금융수익)
+3322,dart_LossesOnValuationOfForeignExchangeForwardFiancialExpense,   통화선도평가손실(금융원가)
+14,ifrs-full_OtherComprehensiveIncome,기타포괄손익
+15,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossNetOfTax,   후속적으로 당기손익으로 재분류될 수 있는 항목
+16,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가이익
+18,ifrs-full_ComprehensiveIncome,당기포괄이익(손실)
+71,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossBeforeTax,   당기손익으로 재분류되지 않는 항목(세전기타포괄손익)
+72,dart_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정손익(세전기타포괄손익)
+74,dart_OtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLossBeforeTax,   당기손익으로 재분류될 수 있는 항목(세전기타포괄손익)
+75,ifrs-full_GainsLossesOnRemeasuringAvailableforsaleFinancialAssetsBeforeTax,      매도가능금융자산평가손익(세전기타포괄손익)
+119,dart_Bonus,   상여
+139,ifrs-full_SharebasedPaymentTransactions,   주식보상비용(환입)
+142,dart_GainsOnSaleOfInvestmentsInAssociates,   관계기업/공동기업투자처분이익
+149,dart_LossesOnTransactionOfDerivativeFinancialInstrument,   파생금융상품거래손실
+150,dart_LossesOnValuationOfDerivativeFinancialInstrument,   파생금융상품평가손실
+164,dart_LossesFromFinancialGuaranteeFinanceExpense,   금융보증비용(손실)
+169,dart_OtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLossNetOfTax,   당기손익으로 재분류되지 않는항목(세후기타포괄손익)
+170,dart_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRemeasurementsOfDefinedBenefitPlans,      확정급여제도의 재측정손익(세후기타포괄손익)
+231,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesOnRevaluation,      기타포괄손익-공정가치측정지분상품평가손익(세후기타포괄손익)
+234,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsNetOfTax,      매도가능금융자산평가손익의 세후재분류조정
+279,ifrs-full_OtherComprehensiveIncomeNetOfTaxGainsLossesFromInvestmentsInEquityInstruments,      기타포괄손익-공정가치 측정 지분상품 평가손익
+309,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossNetOfTax,      관계기업 기타포괄손익에 대한 지분해당액
+332,ifrs-full_GainsLossesOnCashFlowHedgesNetOfTax,      현금흐름위험회피손익(세후기타포괄손익)
+379,ifrs-full_RevenueFromInterest,   이자수익(매출액)
+436,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      파생상품평가손익
+559,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillNotBeReclassifiedToProfitOrLoss,      당기손익으로 재분류되지 않는 항목과 관련된 법인세
+561,ifrs-full_GainsLossesOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeBeforeTax,      기타포괄손익인식금융자산평가손익
+562,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillBeReclassifiedToProfitOrLossBeforeTax,      지분법자본변동
+563,dart_IncomeTaxRelatingToComponentsOfOtherComprehensiveIncomeThatWillBeReclassifiedToProfitOrLoss,      당기손익으로 재분류될수 있는 항목과 관련된 법인세
+649,dart_RevenueFromRenderingOfServicesDistribution,   물류매출액
+654,dart_CostOfSalesFromRenderingOfServicesDistribution,   물류매출원가/유통매출원가
+767,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationNetOfTax,      해외사업환산이익
+769,ifrs-full_GainsLossesOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      파생상품평가이익
+901,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesFromInvestmentsInEquityInstruments,      매도가능금융자산평가손실
+904,ifrs-full_GainsLossesOnExchangeDifferencesOnTranslationBeforeTax,      해외사업장환산외환차이(세전기타포괄이익)
+920,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossNetOfTax,      기타포괄손익-공정가치측정 금융자산평가손익
+1162,dart_CeremonyExpenses,   직장체육비
+1167,dart_RecruitExpenses,   사원모집비
+1174,dart_ReversalsOfImpairmentLossesOnInvestmentProperty,   투자부동산손상차손환입
+1181,dart_LossesOnDisposalOfInvestmentProperty,   투자부동산처분손실
+1187,dart_OtherExpenseOfProvisions,   기타충당부채전입
+1219,dart_SalesPromotionExpenses,   판매비
+1220,dart_ExpenseForManagementOfAffairs,   관리비
+1607,dart_GainOnExemptionOfDebts,   채무면제이익
+1611,dart_WritedownsOfPropertyPlantAndEquipment,   유형자산손상차손
+1622,dart_GainsFromRedemptionOfBondsFinancialIncome,   사채상환이익(금융수익)
+1627,dart_LossesFromRedemptionOfBondsFinancialExpense,   사채상환손실
+1657,dart_BuildingMaintenanceExpenses,   건물관리비
+1666,dart_ElectronicFacilitiesExpenses,   전산유지비
+1679,dart_GainsOnValuationOfFairValueFinancialAsset,   당기손익-금융자산평가이익
+1680,dart_GainsOnValuationOfForeignExchangeForward,   통화선도평가이익
+1681,dart_GainsOnTransactionOfForeignExchangeForward,   통화선도거래이익
+1687,dart_LossesOnValuationOfFairValueFinancialAsset,   당기손익-금융자산평가손실
+1688,dart_LossesOnValuationOfForeignExchangeForward,   통화선도평가손실
+1689,dart_LossesOnTransactionOfForeignExchangeForward,   통화선도거래손실
+1716,ifrs-full_ReclassificationAdjustmentsOnFinancialAssetsMeasuredAtFairValueThroughOtherComprehensiveIncomeNetOfTax,      기타포괄손익-공정가치 측정 금융자산 평가손익의 세후재분류조정
+2103,dart_OutsourcingExpenses,   외주용역비
+2238,dart_RoyaltyIncome,   기술료수입
+2383,dart_RevenueFromRenderingOfServicesBroadcastBusiness,   광고수익
+2386,dart_CostOfSalesFromRenderingOfServicesBroadcastBusiness,   방송제작비
+2387,dart_CostOfSalesFromRoyalties,   사업비용
+2457,dart_ReversalsOfProvisionsForReturnedGoods,   충당부채환입액
+2923,ifrs-full_GainsLossesOnChangeInValueOfTimeValueOfOptionsNetOfTax,      파생금융상품평가손익
+3162,dart_LossesOnSaleOfInvestmentsInAssociates,   관계기업/공동기업투자처분손실
+3164,dart_WritedownsOfInventories,   재고자산평가손실
+3380,ifrs-full_WagesAndSalaries,   급여
+3381,ifrs-full_PostemploymentBenefitExpenseDefinedContributionPlans,"   퇴직급여비용, 확정기여제도"
+3571,dart_ResearchExpense,   조사연구비
+3591,dart_GainsOnDisposalsOfShortTermFinancialInstrumentsFinancialIncome,   금융상품처분이익
+3597,dart_LossesOnDisposalsOfHeldForTradingFinancialAssetsFinancialExpense,   금융자산처분손실
+3761,dart_RevenueContributionToConstruction,   공사부담금수익
+3908,dart_LeaseExpenses,   리스료
+3912,dart_GainsOnDisposalsOfAvailableForSaleFinancialAssets,   매도가능금융자산처분이익
+3918,dart_LossesOnDisposalOfAvailableForSaleFinancialAssets,   매도가능금융자산처분손실
+4417,dart_GainsOnDisposalsOfInvestments,   투자자산처분이익
+4420,dart_GainsFromRedemptionOfBonds,   사채상환이익
+4817,ifrs-full_OtherComprehensiveIncomeBeforeTaxGainsLossesOnRevaluation,      자산재평가손익(세전기타포괄손익)
+5060,dart_ElectricPowerExpense,   수도광열비 및 전력비
+5084,dart_GainsOnValuationOfInvestmentAssets,   투자자산평가이익
+5092,dart_LossesOnValuationOfInvestmentAssets,   투자자산평가손실
+5485,dart_GainsOnValuationOfHeldForTradingFinancialAssetsFinancialIncome,   당기손익-공정가치측정 평가이익
+6857,dart_AfterServiceExpenses,   납후봉사비
+7109,dart_RevenueFromRenderingOfServicesEducation,   교육매출
+7115,dart_CostOfSalesFromRenderingOfServicesEducationBusiness,   교육매출원가
+8203,dart_DelinquentChargeIncome,   이자수입
+8210,dart_LossesOnValuationOfLongTermFinancialInstruments,   이자비용
+8212,dart_LossesOnDispositionOfReceivables,   매출채권처분손실
+8694,dart_GasAndOilExpenses,   연료비
+8711,dart_ProductRepairExpenses,   판매수수료
+8713,dart_ExperimentalResearchExpenses,   실험비
+9201,dart_RevenueFromSaleOfGoodsFishing,   어획물매출액
+9207,dart_CostOfSalesFromSaleOfGoodsFishing,   어획물매출원가
+11015,ifrs-full_GainsLossesOnCashFlowHedgesBeforeTax,      파생상품평가손익
+11430,dart_ProductWarrantyExpensesRecovery,   판매보증비
+12714,dart_RevenueFromSaleOfGoodsRawMaterial,   원재료매출액
+12718,dart_CostOfSalesFromSaleOfGoodsRawMaterial,   원재료매출원가
+12756,dart_GainsFromGovernmentGrants,   정부보조금수익
+13089,dart_InvestmentPropertyDepreciationExpense,   투자부동산감가상각비
+13670,dart_LossesOnDisposalsOfInvestments,   투자자산처분손실
+13674,dart_ImpairmentLossesOnInvestmentProperty,   투자부동산손상차손
+13684,dart_GainsOnDisposalsOfHeldForTradingFinancialAssetsFinancialIncome,   단기매매금융자산처분이익(금융수익)
+13691,dart_LossesOnValuationOfHeldForTradingFinancialAssetsFinancialExpense,   단기매매금융자산평가손실(금융원가)
+13884,dart_GainsOnSaleOfInvestmentAccountedForUsingEquityMethod,   지분법투자주식처분이익
+14131,ifrs-full_ReclassificationAdjustmentsOnChangeInValueOfForeignCurrencyBasisSpreadsNetOfTax,      법인세효과
+14348,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationNetOfTax,      해외사업장환산외환차이 세후재분류조정
+14957,ifrs-full_GainsLossesOnChangeInValueOfForwardElementsOfForwardContractsBeforeTax,      파생상품평가손익
+15417,dart_MarketResearchExpense,   해외시장개척비
+15423,dart_GainsOnSaleOfInvestmentsInSubsidiaries,   종속기업투자주식처분이익
+15430,dart_CompensationForDamage,   보상금
+15443,dart_GainsOnDisposalsOfAvailableForSaleFinancialAssetsFinancialIncome,   매도가능금융자산처분이익(금융수익)
+15452,dart_LossesOnDisposalsOfAvailableForSaleFinancialAssetsFinancialExpense,   매도가능금융자산처분손실(금융원가)
+15758,ifrs-full_ReclassificationAdjustmentsOnAvailableforsaleFinancialAssetsBeforeTax,      당기손익-공정가치측정금융자산평가손익
+16378,ifrs-full_AmountsRemovedFromEquityAndAdjustedAgainstFairValueOfFinancialAssetsOnReclassificationOutOfFairValueThroughOtherComprehensiveIncomeMeasurementCategoryNetOfTax,      당기손익으로 재분류될 수 있는 항목의 법인세
+16635,dart_IncomeTaxRefunds,   법인세환급액
+16783,dart_ReversalsOfProvisionsForConstructionWarranty,   하자보수충당부채환입
+16789,dart_LossesOnDispositionOfReceivablesFinancialExpense,   매출채권처분손실(금융원가)
+17187,dart_RevenueFromRenderingOfServicesMovieShow,   영화상영수익
+17191,dart_CostOfSalesFromRenderingOfServicesMovieShow,   영화상영원가
+18689,ifrs-full_GainsLossesOnChangeInValueOfForwardElementsOfForwardContractsNetOfTax,      이자율스왑평가
+18999,ifrs-full_PostemploymentBenefitExpenseDefinedBenefitPlans,"      퇴직급여비용, 확정급여제도"
+22324,dart_FinancialCommissions,   금융지급수수료
+25578,dart_ReversalsOfImpairmentLossesOnOtherNonCurrentAssets,   기타유동자산손상차손환입
+25584,dart_ReversalsOfImpairmentLossesOnAvailableForSaleFinancialAssets,   기타채권손상차손환입
+25591,dart_LossesOnDisposalOfFairValueFinancialLiabilities,   기타채권손상차손
+25710,dart_GainsOnReimbursementOrCompensation,   보험차익
+26049,dart_RevenueFromRenderingOfServicesGame,      게임매출액
+27180,dart_GainsOnTransactionOfDerivativeFinancialInstrument,   파생금융상품거래이익
+27181,dart_GainsOnValuationOfDerivativeFinancialInstrument,   파생금융상품평가이익
+27331,dart_ShareOfOtherComprehensiveIncomeOfAssociatesAndJointVenturesAccountedForUsingEquityMethodThatWillNotBeReclassifiedToProfitOrLossBeforeTax,      지분법이익잉여금의 변동
+27453,dart_GainsOnValuationOfHeldForTradingFinancialAssets,   단기매매금융자산평가이익
+27454,dart_GainsOnDisposalsOfHeldForTradingFinancialAssets,   단기매매금융자산처분이익
+27457,dart_ReversalOfImpairmentLossesOnIntangibleAssets,   무형자산손상차손환입
+27466,dart_LossesOnValuationOfHeldForTradingFinancialAssets,   단기매매금융자산평가손실
+32520,ifrs-full_ReclassificationAdjustmentsOnCashFlowHedgesNetOfTax,      위험회피파생상품의 기타포괄손익 중 당기손익에 포함된 재분류 조정
+34259,dart_GainsOnTransactionOfForeignExchangeForwardFinancialIncome,   통화선도거래이익(금융수익)
+34266,dart_LossesOnTransactionOfForeignExchangeForwardFinancialExpense,   통화선도거래손실(금융원가)
+34322,dart_PublicRelationExpense,   홍보비
+34649,dart_WorkersAccidentCompensationInsuranceExpenses,   산재보험료
+34655,dart_ByproductsProceeds,   부산물수입
+34669,dart_ImpairmentLossesOnAvailableForSaleFinancialAssets,   매도가능금융자산손상차손
+34693,ifrs-full_GainsLossesOnChangeInValueOfForeignCurrencyBasisSpreadsNetOfTax,      외화환산적립금
+35116,dart_ReversalsOfProvisionsForConstructionLosses,   공사손실충당부채환입
+35590,dart_CostOfSalesFromRenderingOfServicesGames,   사교장원가
+36109,ifrs-full_OtherReversalsOfProvisions,   기타충당부채의 환입
+36173,dart_RevenueFromSaleOfGoodsTire,      기타매출
+36181,dart_RevenueFromSaleOfGoodsFood,      선용품판매
+36245,dart_LossesOnSaleOfInvestmentAccountedForUsingEquityMethod,   지분법투자주식감액손실
+36247,dart_LossesFromRedemptionOfBonds,   사채상환손실
+36910,dart_FinancialGuaranteeFinancialExpense,   보증료(금융원가)
+38038,dart_RevenueGovernmentGrant,   정부보조금수익(매출액)
+38066,dart_ClothingExpenses,   피복비
+38072,dart_RevenueContributionToConstructionNonOperating,   공사부담금수익(영업외)
+41041,dart_RevenueFromRenderingOfServicesMaintenance,      정비매출
+41051,dart_CostOfSalesFromRenderingOfServicesMaintenance,      정비매출원가
+41076,dart_ReturnedGoodsExpenses,   반품비용
+24,ifrs-full_ComprehensiveIncomeAttributableToAbstract,총 포괄손익의 귀속 [abstract]
+25,ifrs-full_ComprehensiveIncomeAttributableToOwnersOfParent,   지배기업 소유주지분
+26,ifrs-full_ComprehensiveIncomeAttributableToNoncontrollingInterests,   비지배지분
+432,dart_RevenueFromHotelService,   호텔매출액
+445,dart_CostOfRevenueHotelService,   호텔매출원가
+857,ifrs-full_ReclassificationAdjustmentsOnExchangeDifferencesOnTranslationBeforeTax,      해외사업장환산외환차이 세전재분류조정
+1420,dart_GainsOnValuationOfDerivativeLiabilitiesFinancialIncome,   파생부채평가이익(금융수익)
+8660,dart_CostOfSalesFromInterest,   투자비용
+15053,dart_ReversalsOfPropertyPlantAndEquipment,   선박손상차손환입
+18919,dart_ExpenseOfLegalProceedingsProvision,   법적소송충당부채전입액
+29317,dart_AmortizationOnNegativeGoodwill,   염가매수차익
+29320,dart_ReversalsOfLegalProceedingsProvision,   소송충당부채환입
+30822,dart_RevenueFromRenderingOfServicesFinanceBusiness,   금융업
+30825,dart_CostOfSalesFromRenderingOfServicesFinanceBusiness,   금융업매출원가
+35930,ifrs-full_ChangesInInventoriesOfFinishedGoodsAndWorkInProgress,   재고의변동
+39374,dart_LossesOnDisposalOfHeldForTradingFinancialAssets,   단기매매금융자산처분손실
+42714,dart_OrderGettingExpenses,   수주비
+43653,ifrs-full_ReclassificationAdjustmentsOnHedgesOfNetInvestmentsInForeignOperationsNetOfTax,      해외사업장순투자의 위험회피손익의 세후재분류조정
